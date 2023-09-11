@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivgnk)](https://github.com/ivgnk/github-readme-stats)
 
-<!--
 ![](https://komarev.com/ghpvc/?username=ivgnk)
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ivgnk)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivgnk)](https://git.io/streak-stats)
 -->
