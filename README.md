@@ -51,4 +51,7 @@ Here are some ideas to get you started:
 https://habr.com/ru/articles/649363/
 markdown-badges
 https://github.com/Ileriayo/markdown-badges
+
+Примеры оформления
+https://github.com/daniilshat/daniilshat
 -->
