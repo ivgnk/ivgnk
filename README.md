@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ivgnk)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ivgnk)](https://github.com/ivgnk/github-readme-activity-graph)
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ivgnk)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivgnk)](https://git.io/streak-stats)
