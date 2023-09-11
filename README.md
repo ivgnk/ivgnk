@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
+[![codewars](https://www.codewars.com/users/ivgnk/badges/small)](https://www.codewars.com/users/ivgnk) 
 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
