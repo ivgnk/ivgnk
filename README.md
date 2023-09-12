@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 [groupeLIAMG](https://github.com/groupeLIAMG) - Laboratoire d'Interprétation et Acquisition des Mesures en Géosciences. *[Interactive data processing and analysis tool to compute the Curie point depth from aeromagnetic data](https://github.com/groupeLIAMG/pycpd)*                                                                       
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
-**[Patrick-Cole](https://github.com/Patrick-Cole) - Council for Geoscience. **_[pygmi](https://github.com/Patrick-Cole/pygmi)_**
+**[Patrick-Cole](https://github.com/Patrick-Cole)** - Council for Geoscience. **_[pygmi](https://github.com/Patrick-Cole/pygmi)_**              
 **[Alexey Pechnikov](https://github.com/mobigroup)** - GIS and Geo Science Programming, Modeling, and Machine Learning (Habr). *[3D Gravity and Magnetic Inversion Models on Ellipsoid (Globe)](https://github.com/mobigroup/ellipsoid)*             
 **[Michael Pyrcz](https://github.com/GeostatsGuy)** - a professor working in Data Analytics, Geostatistics and Machine Learning. *[GeostatsPy
 ](https://github.com/GeostatsGuy/GeostatsPy)*          
