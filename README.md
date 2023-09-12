@@ -75,7 +75,9 @@ Here are some ideas to get you started:
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
 
 ## Other interesting repositories:                  
+### Geophysics   
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
+[Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)
 
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
