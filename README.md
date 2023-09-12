@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 -->
 
 Following:                  
+IT             
+[Berkeley Automation Lab](https://github.com/BerkeleyAutomation)              
+
 Math                  
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
