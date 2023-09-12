@@ -55,5 +55,6 @@ markdown-badges
 https://github.com/Ileriayo/markdown-badges
 
 Примеры оформления
+https://github.com/JesperDramsch
 https://github.com/daniilshat/daniilshat
 -->
