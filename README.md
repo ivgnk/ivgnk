@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
 
-**[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
 [Probabilistic machine learning](https://github.com/probml) - Material to accompany book series "Probabilistic Machine Learning" (Software, Data, Exercises, Figures, etc)
@@ -65,7 +64,8 @@ Here are some ideas to get you started:
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
-### Geophysics                       
+### Geosciences                       
+**[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
 [groupeLIAMG](https://github.com/groupeLIAMG) - Laboratoire d'Interprétation et Acquisition des Mesures en Géosciences. *[Interactive data processing and analysis tool to compute the Curie point depth from aeromagnetic data](https://github.com/groupeLIAMG/pycpd)*                                                                       
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
 
 ## Other interesting repositories:                  
-### Geophysics   
+### Geosciences   
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)             
 [Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)            
 
