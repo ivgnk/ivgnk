@@ -53,6 +53,7 @@ IT
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation)              
 
 Math                  
+[NumPy](https://github.com/numpy) - The fundamental package for scientific computing with Python
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
