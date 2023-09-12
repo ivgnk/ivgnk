@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 ## Following:                  
 ### IT
 [Python](https://github.com/python) - Repositories related to the Python Programming language             
+[Open Source Geospatial Foundation](https://github.com/OSGeo) - organization whose mission is to support and promote the collaborative development of open geospatial technologies and data
+
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
 ### Math                  
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
-Geophysics                       
+### Geophysics                       
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 
