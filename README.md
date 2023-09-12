@@ -54,9 +54,10 @@ Here are some ideas to get you started:
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
+[Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
 [Probabilistic machine learning](https://github.com/probml) - Material to accompany book series "Probabilistic Machine Learning" (Software, Data, Exercises, Figures, etc)
-[Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
+[Dive into Deep Learning (D2L.ai)](https://github.com/d2l-ai) - [Interactive deep learning book with code, math, and discussions](https://d2l.ai/)
 
                
 
