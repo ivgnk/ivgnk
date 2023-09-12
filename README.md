@@ -64,17 +64,22 @@ Here are some ideas to get you started:
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
-### Geosciences                       
+### Geosciences     
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
 [groupeLIAMG](https://github.com/groupeLIAMG) - Laboratoire d'Interprétation et Acquisition des Mesures en Géosciences. *[Interactive data processing and analysis tool to compute the Curie point depth from aeromagnetic data](https://github.com/groupeLIAMG/pycpd)*                                                                       
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
+**[Patrick-Cole](https://github.com/Patrick-Cole) - Council for Geoscience. **_[pygmi](https://github.com/Patrick-Cole/pygmi)_**
 **[Alexey Pechnikov](https://github.com/mobigroup)** - GIS and Geo Science Programming, Modeling, and Machine Learning (Habr). *[3D Gravity and Magnetic Inversion Models on Ellipsoid (Globe)](https://github.com/mobigroup/ellipsoid)*             
 **[Michael Pyrcz](https://github.com/GeostatsGuy)** - a professor working in Data Analytics, Geostatistics and Machine Learning. *[GeostatsPy
 ](https://github.com/GeostatsGuy/GeostatsPy)*          
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist. *[geophysical_notes](https://github.com/aadm/geophysical_notes)*                
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
+
+### Quants          
+**[	cia76](https://github.com/cia76)** - Игорь Чечет              
+
 
 ## Other interesting repositories:                  
 ### Geosciences   
