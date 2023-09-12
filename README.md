@@ -69,9 +69,16 @@ Here are some ideas to get you started:
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
 https://habr.com/ru/articles/649363/
+2022 Как креативно оформить профиль на GitHub, чтобы он привлекал внимание
+https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
+
 markdown-badges
 https://github.com/Ileriayo/markdown-badges
+
+Basic writing and formatting syntax
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Персонализация профиля
+https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile
 
 Примеры оформления
 https://github.com/JesperDramsch
