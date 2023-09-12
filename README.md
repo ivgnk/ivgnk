@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivgnk)](https://git.io/streak-stats)
 -->
 
-Following:                  
-IT             
+##Following:                  
+###IT             
 [Python](https://github.com/python) - Repositories related to the Python Programming language             
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
-Math                  
+###Math                  
 [NumPy](https://github.com/numpy) - The fundamental package for scientific computing with Python                
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
@@ -67,8 +67,10 @@ Geophysics
 https://habr.com/ru/articles/649363/
 markdown-badges
 https://github.com/Ileriayo/markdown-badges
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Примеры оформления
 https://github.com/JesperDramsch
 https://github.com/daniilshat/daniilshat
 -->
+
