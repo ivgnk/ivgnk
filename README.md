@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
-
+[Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist [geophysical_notes](https://github.com/aadm/geophysical_notes)
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
 https://habr.com/ru/articles/649363/
