@@ -83,7 +83,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Other</summary>
-Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+ 
+Spoiler text. 
+Note that it's important to have a space after the summary tag. 
 </details>
 
 <!-- Про оформление
