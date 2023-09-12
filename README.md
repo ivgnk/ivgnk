@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan Genik 👋
+## Hi there, I'm Ivan Genik 👋
 
 <!--
 **ivgnk/ivgnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-
+## Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivgnk&layout=compact)](https://github.com/ivgnk/github-readme-stats)
 
