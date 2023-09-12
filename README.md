@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
 ### Geophysics                       
+**[SEG](https://github.com/seg)** - Society of Exploration Geophysicists
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 
