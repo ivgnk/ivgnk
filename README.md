@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 -->
 
 Following:
-PyLops - Matrix-Free linear algebra and optimization in Python
+[PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python
 
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
