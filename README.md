@@ -94,6 +94,9 @@ https://habr.com/ru/articles/649363/
 2022 Как креативно оформить профиль на GitHub, чтобы он привлекал внимание
 https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
 
+GitHub spoiler markdown.md
+https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287
+
 markdown-badges
 https://github.com/Ileriayo/markdown-badges
 https://github.com/devicons/devicon/
