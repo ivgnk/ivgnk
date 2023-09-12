@@ -52,9 +52,10 @@ Here are some ideas to get you started:
 ### IT/Math
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
-**[Probabilistic machine learning](https://github.com/probml)** - Material to accompany book series "Probabilistic Machine Learning" (Software, Data, Exercises, Figures, etc)
 
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
+
+[Probabilistic machine learning](https://github.com/probml) - Material to accompany book series "Probabilistic Machine Learning" (Software, Data, Exercises, Figures, etc)
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
                
