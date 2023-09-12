@@ -81,6 +81,11 @@ Here are some ideas to get you started:
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)             
 [Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)            
 
+<details>
+  <summary>Other</summary>
+Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+</details>
+
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
 https://habr.com/ru/articles/649363/
