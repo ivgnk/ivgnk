@@ -72,6 +72,10 @@ Here are some ideas to get you started:
 **[Michael Pyrcz](https://github.com/GeostatsGuy)** - a professor working in Data Analytics, Geostatistics and Machine Learning           
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist. *[geophysical_notes](https://github.com/aadm/geophysical_notes)*                
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
+
+## Other interesting repositories:                  
+[Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)
+
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
 https://habr.com/ru/articles/649363/
