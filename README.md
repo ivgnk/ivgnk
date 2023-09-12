@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 ### IT
 [Python](https://github.com/python) - Repositories related to the Python Programming language             
 [Open Source Geospatial Foundation](https://github.com/OSGeo) - organization to support the collaborative development of open geospatial technologies and data
-
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
 ### Math                  
