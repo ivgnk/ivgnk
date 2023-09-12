@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivgnk)](https://git.io/streak-stats)
 -->
 
+Following:
+PyLops - Matrix-Free linear algebra and optimization in Python
+
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
 https://habr.com/ru/articles/649363/
