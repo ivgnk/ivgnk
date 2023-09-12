@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 -->
 
 ## Following:                  
-### IT/Math
+### STEM
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
