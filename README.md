@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 Following:                  
 IT             
 [Python](https://github.com/python) - Repositories related to the Python Programming language             
-[Berkeley Automation Lab](https://github.com/BerkeleyAutomation)              
+[Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
 Math                  
 [NumPy](https://github.com/numpy) - The fundamental package for scientific computing with Python                
