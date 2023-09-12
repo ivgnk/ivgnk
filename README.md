@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist [geophysical_notes](https://github.com/aadm/geophysical_notes)
+[Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics
 <!-- Про оформление
 2022 Оформляем README-файл профиля на GitHub
 https://habr.com/ru/articles/649363/
@@ -74,6 +75,7 @@ https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-
 
 markdown-badges
 https://github.com/Ileriayo/markdown-badges
+https://github.com/devicons/devicon/
 
 Basic writing and formatting syntax
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
