@@ -53,7 +53,7 @@ Math
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
-Geophysics
+Geophysics                       
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 
