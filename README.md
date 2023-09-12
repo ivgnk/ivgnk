@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 Following:
 
-[PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python                   
+[PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
 <!-- Про оформление
