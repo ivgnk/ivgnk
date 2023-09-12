@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 ### Geophysics                       
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
+[groupeLIAMG](https://github.com/groupeLIAMG) - Laboratoire d'Interprétation et Acquisition des Mesures en Géosciences. [Interactive data processing and analysis tool to compute the Curie point depth from aeromagnetic data]()
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist [geophysical_notes](https://github.com/aadm/geophysical_notes)        
