@@ -51,11 +51,13 @@ Here are some ideas to get you started:
 ## Following:                  
 ### IT
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
-[Open Source Geospatial Foundation](https://github.com/OSGeo) - organization to support the collaborative development of open geospatial technologies and data
+**[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
+
+**[Open Source Geospatial Foundation]**(https://github.com/OSGeo) - organization to support the collaborative development of open geospatial technologies and data
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
 ### Math                  
-[NumPy](https://github.com/numpy) - The fundamental package for scientific computing with Python                
+
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
