@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 [Chris / ChristosChristofidis](https://github.com/ChristosChristofidis) -  Deep/Machine Learning. 140 Repo, 893 Stars                              
 [Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars                        
 
+[Konstantin Gavrilov](https://github.com/konstgav) - Perm, Physicist
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
 
 ### Geosciences     
