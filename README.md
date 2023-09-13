@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
+[Chris / ChristosChristofidis](https://github.com/ChristosChristofidis) -  Deep/Machine Learning. 140 Repo, 893 Stars
+[Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars
+
 ### Geosciences     
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
