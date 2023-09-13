@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 [Chris / ChristosChristofidis](https://github.com/ChristosChristofidis) -  Deep/Machine Learning. 140 Repo, 893 Stars                              
 [Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars                        
 
+[Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
 
 ### Geosciences     
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
