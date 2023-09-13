@@ -64,8 +64,9 @@ Here are some ideas to get you started:
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
-[Chris / ChristosChristofidis](https://github.com/ChristosChristofidis) -  Deep/Machine Learning. 140 Repo, 893 Stars
-[Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars
+[Chris / ChristosChristofidis](https://github.com/ChristosChristofidis) -  Deep/Machine Learning. 140 Repo, 893 Stars                              
+[Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars                        
+
 
 ### Geosciences     
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
@@ -74,7 +75,9 @@ Here are some ideas to get you started:
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 **[Patrick-Cole](https://github.com/Patrick-Cole)** - Council for Geoscience. *[pygmi](https://github.com/Patrick-Cole/pygmi)*              
-**[Alexey Pechnikov](https://github.com/mobigroup)** - GIS and Geo Science Programming, Modeling, and Machine Learning (Habr). *[3D Gravity and Magnetic Inversion Models on Ellipsoid (Globe)](https://github.com/mobigroup/ellipsoid)*             
+**[Alexey Pechnikov](https://github.com/mobigroup)** - GIS and Geo Science Programming, Modeling, and Machine Learning (Habr). *[3D Gravity and Magnetic Inversion Models on Ellipsoid (Globe)](https://github.com/mobigroup/ellipsoid)*         
+
+[pysit](https://github.com/pysit) - *[Seismic Inversion Toolbox in Python](https://pysit.readthedocs.io/en/latest/)*
 **[Michael Pyrcz](https://github.com/GeostatsGuy)** - a professor working in Data Analytics, Geostatistics and Machine Learning. *[GeostatsPy
 ](https://github.com/GeostatsGuy/GeostatsPy)*          
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist. *[geophysical_notes](https://github.com/aadm/geophysical_notes)*                
