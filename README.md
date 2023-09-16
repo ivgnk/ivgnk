@@ -103,8 +103,12 @@ Here are some ideas to get you started:
 <details>
   <summary>Other</summary>
  
-Spoiler text. 
-Note that it's important to have a space after the summary tag. 
+### Quants          
+**2022 The Top 21 Python Trading Tools (September 2023)**
+https://analyzingalpha.com/python-trading-tools
+
+Tradologics (Cloud Python Trading Tools)
+https://tradologics.gitbook.io/docs-concepts/
 </details>
 
 <!-- Про оформление
