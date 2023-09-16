@@ -106,7 +106,9 @@ Here are some ideas to get you started:
 ### Quants          
 [**2022 The Top 21 Python Trading Tools (September 2023)**](https://analyzingalpha.com/python-trading-tools)
 
-[Tradologics (Cloud Python Trading Tools)}(https://tradologics.gitbook.io/docs-concepts)
+[Tradologics (Cloud Python Trading Tools)](https://tradologics.gitbook.io/docs-concepts)
+
+[Financial Data that drives your success Access stocks, forex and other financial assets from anywhere at any time](https://twelvedata.com)
 </details>
 
 <!-- Про оформление
