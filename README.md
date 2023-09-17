@@ -109,6 +109,13 @@ Here are some ideas to get you started:
 [Tradologics (Cloud Python Trading Tools)](https://tradologics.gitbook.io/docs-concepts)
 
 [Financial Data that drives your success Access stocks, forex and other financial assets from anywhere at any time](https://twelvedata.com)
+
+- - -
+[Technical Analysis - Github](https://github.com/topics/technical-analysis?l=python) -  173 public repositories
+[Technical Analysis - PyPi](https://pypi.org/search/?q=Technical+Analysis)
+
+[Technical Analysis Library in Python](https://github.com/bukosabino/ta)  816 forks, 3.8k stars
+
 </details>
 
 <!-- Про оформление
