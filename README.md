@@ -93,7 +93,9 @@ Here are some ideas to get you started:
 
 ### Quants          
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
-**[Beliavsky](https://github.com/Beliavsky)** - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)
+**[Darío López Padial](https://github.com/bukosabino)** - Technical Analysis, Financial Forecasting, 509 followers
+
+[Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)
 
 
 ## Other interesting repositories:                  
