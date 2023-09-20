@@ -111,11 +111,16 @@ Here are some ideas to get you started:
 [Financial Data that drives your success Access stocks, forex and other financial assets from anywhere at any time](https://twelvedata.com)
 
 - - -
-[Technical Analysis - Github](https://github.com/topics/technical-analysis?l=python) -  173 public repositories
-[Technical Analysis - PyPi](https://pypi.org/search/?q=Technical+Analysis)
+[Technical Analysis - Github](https://github.com/topics/technical-analysis?l=python) -  173 public repositories                    
+[Technical Analysis - PyPi](https://pypi.org/search/?q=Technical+Analysis)                   
 
-[Technical Analysis Library in Python](https://github.com/bukosabino/ta)  816 forks, 3.8k stars
+[Technical Analysis Library in Python](https://github.com/bukosabino/ta)  816 forks, 3.8k stars         
 
+
+### Languages          
+
+#### Basic
+2020 [Basic-256](https://en.wikipedia.org/wiki/Basic-256)
 </details>
 
 <!-- Про оформление
