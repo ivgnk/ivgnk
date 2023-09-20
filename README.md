@@ -92,7 +92,8 @@ Here are some ideas to get you started:
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
 
 ### Quants          
-**[	cia76](https://github.com/cia76)** - Игорь Чечет              
+**[cia76](https://github.com/cia76)** - Игорь Чечет              
+**[Beliavsky](https://github.com/Beliavsky) - analyze financial data in Fortran, R, and Python, post at Fortran Discourse, and tweet @FortranTip
 
 
 ## Other interesting repositories:                  
@@ -118,6 +119,10 @@ Here are some ideas to get you started:
 
 
 ### Languages          
+#### Fortran
+**[Fortran-lang](https://github.com/fortran-lang)** - main Fortran community
+**[Beliavsky](https://github.com/Beliavsky) - analyze financial data in Fortran, R, and Python, post at Fortran Discourse, and tweet @FortranTip *[]()*
+
 
 #### Basic
 2023 [**Visual Basic.NET**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) - 
