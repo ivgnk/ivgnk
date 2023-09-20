@@ -127,6 +127,9 @@ Here are some ideas to get you started:
 **[Beliavsky](https://github.com/Beliavsky)** - repo: **[Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub)**, **[Fortran Tools](https://github.com/Beliavsky/Fortran-Tools)**, [Fortran-related books](https://github.com/Beliavsky/Fortran-related-books), [A Cheatsheet for Fortran 2008 Syntax: Comparison with Python 3](https://github.com/Beliavsky/fortran-vs-python), [Fortran 90 codes of John Burkardt by category](https://github.com/Beliavsky/Burkardt-Fortran-90), [Fortran-tools-on-GitHub](https://github.com/Beliavsky/Fortran-tools-on-GitHub)                       
 
 Как установить компилятор gcc / g++ для Windows: [1 text](https://programforyou.ru/poleznoe/kak-ustanovit-gcc-dlya-windows), [2 video eng](https://www.youtube.com/watch?v=2bZfdWCMBMI), [3 video rus](https://www.youtube.com/watch?v=TGpYh9X1PYk)                 
+[Last Fortran, C and C++ for Windows](http://www.equation.com/servlet/equation.cmd?fa=fortran)            
+https://sourceforge.net/projects/mingw/files/MinGW             
+https://osdn.net/projects/mingw
 
 **[Fortran compilers](https://en.wikipedia.org/wiki/List_of_compilers#Fortran_compilers)**: [GNU Fortran (GFortran)](https://www.gnu.org/software/gcc/), [Intel Fortran Compiler
 ](), [Flang](https://flang.llvm.org/), [Silverfrost Fortran FTN95](https://www.silverfrost.com/11/ftn95_overview.aspx), [AMD Optimizing C/C++ Compiler
