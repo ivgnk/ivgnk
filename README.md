@@ -120,6 +120,10 @@ Here are some ideas to get you started:
 ### Languages          
 
 #### Basic
+2023 [Yabasic](https://en.wikipedia.org/wiki/Yabasic)
+2023 [SmallBASIC](https://en.wikipedia.org/wiki/SmallBASIC)
+2022 [QB64](https://en.wikipedia.org/wiki/QB64)
+2021 [WxBasic](https://en.wikipedia.org/wiki/WxBasic)
 2020 [Basic-256](https://en.wikipedia.org/wiki/Basic-256)
 </details>
 
