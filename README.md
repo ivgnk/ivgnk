@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 2022 [QB64](https://en.wikipedia.org/wiki/QB64)
 2022 [ThinBasic](https://en.wikipedia.org/wiki/ThinBasic) - with IDE
 2021 [WxBasic](https://en.wikipedia.org/wiki/WxBasic)
-2020 [Basic-256](https://en.wikipedia.org/wiki/Basic-256)
+2020 [Basic-256](https://en.wikipedia.org/wiki/Basic-256) - with IDE
 </details>
 
 <!-- Про оформление
