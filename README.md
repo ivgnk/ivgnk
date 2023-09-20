@@ -139,6 +139,7 @@ https://osdn.net/projects/mingw
 ](https://en.wikipedia.org/wiki/Oracle_Developer_Studio) - only Linux            
 **[Fortran IDE](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Fortran)**:                      
 [List of Fortran numerical libraries](https://en.wikipedia.org/wiki/List_of_numerical_libraries#Fortran)
+[Fortran Package Manager](https://fpm.fortran-lang.org/)
 
 
 #### Basic
