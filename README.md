@@ -120,7 +120,12 @@ Here are some ideas to get you started:
 ### Languages          
 
 #### Basic
+2023 [**Visual Basic.NET**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) - 
 2022 [**MapBasic**](https://en.wikipedia.org/wiki/MapBasic)
+2023 [**B4X**](https://en.wikipedia.org/wiki/B4X) - with IDE
+2023 [Gambas](https://en.wikipedia.org/wiki/Gambas) - Linux, with IDE
+
+2023 [Small-Visual-Basic](https://github.com/VBAndCs/sVB-Small-Visual-Basic) - with IDE
 
 2023 [FreeBASIC](https://en.wikipedia.org/wiki/FreeBASIC)
 2023 [Yabasic](https://en.wikipedia.org/wiki/Yabasic)
