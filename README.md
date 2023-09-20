@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 ### Quants          
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
-**[Beliavsky](https://github.com/Beliavsky)** - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement)
+**[Beliavsky](https://github.com/Beliavsky)** - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)
 
 
 ## Other interesting repositories:                  
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 ### Languages          
 #### Fortran
 **[Fortran-lang](https://github.com/fortran-lang)** - main Fortran community                        
-**[Beliavsky](https://github.com/Beliavsky)** - repo: **[Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub)**, **[Fortran Tools](https://github.com/Beliavsky/Fortran-Tools)**, [A Cheatsheet for Fortran 2008 Syntax: Comparison with Python 3](https://github.com/Beliavsky/fortran-vs-python), [Fortran 90 codes of John Burkardt by category](https://github.com/Beliavsky/Burkardt-Fortran-90)                      
+**[Beliavsky](https://github.com/Beliavsky)** - repo: **[Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub)**, **[Fortran Tools](https://github.com/Beliavsky/Fortran-Tools)**, [Fortran-related books](https://github.com/Beliavsky/Fortran-related-books), [A Cheatsheet for Fortran 2008 Syntax: Comparison with Python 3](https://github.com/Beliavsky/fortran-vs-python), [Fortran 90 codes of John Burkardt by category](https://github.com/Beliavsky/Burkardt-Fortran-90), [Fortran-tools-on-GitHub](https://github.com/Beliavsky/Fortran-tools-on-GitHub)                       
 
              
 
