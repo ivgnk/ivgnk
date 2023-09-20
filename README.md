@@ -134,13 +134,10 @@ Here are some ideas to get you started:
 2022 [**MapBasic**](https://en.wikipedia.org/wiki/MapBasic)
 2023 [**B4X**](https://en.wikipedia.org/wiki/B4X) - with IDE
 2023 [Gambas](https://en.wikipedia.org/wiki/Gambas) - Linux, with IDE
-
 2023 [Small-Visual-Basic](https://github.com/VBAndCs/sVB-Small-Visual-Basic) - with IDE
-
 2023 [FreeBASIC](https://en.wikipedia.org/wiki/FreeBASIC)
 2023 [Yabasic](https://en.wikipedia.org/wiki/Yabasic)
 2023 [SmallBASIC](https://en.wikipedia.org/wiki/SmallBASIC)
-
 2022 [QB64](https://en.wikipedia.org/wiki/QB64)
 2022 [ThinBasic](https://en.wikipedia.org/wiki/ThinBasic) - with IDE
 2021 [WxBasic](https://en.wikipedia.org/wiki/WxBasic)
