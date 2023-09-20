@@ -120,8 +120,10 @@ Here are some ideas to get you started:
 
 ### Languages          
 #### Fortran
-**[Fortran-lang](https://github.com/fortran-lang)** - main Fortran community
-**[Beliavsky](https://github.com/Beliavsky) - analyze financial data in Fortran, R, and Python, post at Fortran Discourse, and tweet @FortranTip *[]()*
+**[Fortran-lang](https://github.com/fortran-lang)** - main Fortran community                        
+**[Beliavsky](https://github.com/Beliavsky) - repo: **[Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub)**, A Cheatsheet for Fortran 2008 Syntax: Comparison with Python 3, Fortran 90 codes of John Burkardt by category,
+
+             
 
 
 #### Basic
