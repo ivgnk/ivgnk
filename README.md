@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivgnk)](https://git.io/streak-stats)
 -->
 
-<!-- paste anywhere in your site -->
-<a href="http://github.com/USER/REPO" id="github-stats-badge">GitHub</a>
-<script src="https://swharden.github.io/repo-badge/badge.js" defer></script>
 
 ## Following:                  
 ### STEM
