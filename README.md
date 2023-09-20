@@ -130,6 +130,7 @@ Here are some ideas to get you started:
 [Last Fortran, C and C++ for Windows](http://www.equation.com/servlet/equation.cmd?fa=fortran)            
 https://sourceforge.net/projects/mingw/files/MinGW             
 https://osdn.net/projects/mingw
+[Eclipse Fortran Development User Guide](https://help.eclipse.org/latest)
 
 **[Fortran compilers](https://en.wikipedia.org/wiki/List_of_compilers#Fortran_compilers)**: [GNU Fortran (GFortran)](https://www.gnu.org/software/gcc/), [Intel Fortran Compiler
 ](), [Flang](https://flang.llvm.org/), [Silverfrost Fortran FTN95](https://www.silverfrost.com/11/ftn95_overview.aspx), [AMD Optimizing C/C++ Compiler
