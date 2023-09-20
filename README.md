@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 ### Quants          
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
-**[Beliavsky](https://github.com/Beliavsky) - analyze financial data in Fortran, R, and Python, post at Fortran Discourse, and tweet @FortranTip
+**[Beliavsky](https://github.com/Beliavsky)** - analyze financial data in Fortran, R, and Python, post at Fortran Discourse, and tweet @FortranTip
 
 
 ## Other interesting repositories:                  
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 ### Languages          
 #### Fortran
 **[Fortran-lang](https://github.com/fortran-lang)** - main Fortran community                        
-**[Beliavsky](https://github.com/Beliavsky) - repo: **[Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub)**, A Cheatsheet for Fortran 2008 Syntax: Comparison with Python 3, Fortran 90 codes of John Burkardt by category,
+**[Beliavsky](https://github.com/Beliavsky)** - repo: **[Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub)**, [A Cheatsheet for Fortran 2008 Syntax: Comparison with Python 3](https://github.com/Beliavsky/fortran-vs-python), [Fortran 90 codes of John Burkardt by category](https://github.com/Beliavsky/Burkardt-Fortran-90)                      
 
              
 
