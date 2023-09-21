@@ -110,9 +110,9 @@ Here are some ideas to get you started:
 [Top 100 Stars in Julia](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Julia.md)            
 [Top 100 Stars in MATLAB](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/MATLAB.md)            
 
-[Top 100 Stars in Ruby](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Ruby.md)        
-[Top 100 Stars in C#](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CSharp.md)
-[Top 100 Stars in C++](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CPP.md)
+[Top 100 Stars in Ruby](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Ruby.md)            
+[Top 100 Stars in C#](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CSharp.md)                 
+[Top 100 Stars in C++](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CPP.md)                
 
 
 (Training in programming)          
