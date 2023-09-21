@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 [Polars](https://github.com/pola-rs) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends     
 
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
+[**MorvanZhou**](https://github.com/MorvanZhou) - Deep Learning Research & Development at Tencent (одна из крупнейших инвестиционных и венчурных компаний Китая)                                  
 [**Chanin Nantasenamat: dataprofessor**](https://github.com/dataprofessor) - popular blogger on data scince (see Pinned Repo): [youtube: DataProfessor](https://www.youtube.com/@DataProfessor)                                 
 
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
