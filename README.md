@@ -104,17 +104,6 @@ Here are some ideas to get you started:
 [Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)
 
 ### Languages           
-**[Github Ranking: A list of the most github stars and forks repositories.](https://github.com/EvanLi/Github-Ranking)**                             
-[Top 100 Stars in Python](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Python.md)                       
-[Top 100 Stars in R](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/R.md)                
-[Top 100 Stars in Julia](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Julia.md)            
-[Top 100 Stars in MATLAB](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/MATLAB.md)            
-
-[Top 100 Stars in Ruby](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Ruby.md)            
-[Top 100 Stars in C#](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CSharp.md)                 
-[Top 100 Stars in C++](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CPP.md)                
-
-
 (Training in programming)          
 #### Python        
 [Yanhao29](https://github.com/Yanhao29) - Data Science                    
@@ -143,6 +132,17 @@ Here are some ideas to get you started:
 
 
 ### Languages          
+**[Github Ranking: A list of the most github stars and forks repositories.](https://github.com/EvanLi/Github-Ranking)**                             
+[Top 100 Stars in Python](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Python.md)                       
+[Top 100 Stars in R](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/R.md)                
+[Top 100 Stars in Julia](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Julia.md)            
+[Top 100 Stars in MATLAB](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/MATLAB.md)            
+
+[Top 100 Stars in Ruby](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Ruby.md)            
+[Top 100 Stars in C#](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CSharp.md)                 
+[Top 100 Stars in C++](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CPP.md)                
+
+
 #### Fortran
 **[Fortran-lang](https://github.com/fortran-lang)** - main Fortran community                        
 **[Beliavsky](https://github.com/Beliavsky)** - repo: **[Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub)**, **[Fortran Tools](https://github.com/Beliavsky/Fortran-Tools)**, [Fortran-related books](https://github.com/Beliavsky/Fortran-related-books), [A Cheatsheet for Fortran 2008 Syntax: Comparison with Python 3](https://github.com/Beliavsky/fortran-vs-python), [Fortran 90 codes of John Burkardt by category](https://github.com/Beliavsky/Burkardt-Fortran-90), [Fortran-tools-on-GitHub](https://github.com/Beliavsky/Fortran-tools-on-GitHub)                       
