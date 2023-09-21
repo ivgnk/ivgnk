@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
+**[matplotlib](https://github.com/matplotlib)** - matplotlib: plotting with Python
+
+**[RStudio](https://github.com/rstudio) - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
+
 
 **[DBeaver](https://github.com/dbeaver)** - Universal Database Managers and SQL Clients                  
 
@@ -102,6 +106,7 @@ Here are some ideas to get you started:
 ### Languages           
 (Training in programming)          
 #### Python        
+[Yanhao29](https://github.com/Yanhao29) - Data Science
 [bakunobu](https://github.com/bakunobu)
 
 ## Other interesting repositories:                  
