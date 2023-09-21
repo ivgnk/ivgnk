@@ -107,8 +107,12 @@ Here are some ideas to get you started:
 **[Github Ranking: A list of the most github stars and forks repositories.](https://github.com/EvanLi/Github-Ranking)**                             
 [Top 100 Stars in Python](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Python.md)                       
 [Top 100 Stars in R](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/R.md)                
-[Top 100 Stars in Julia](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Julia.md)
-[Top 100 Stars in MATLAB](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/MATLAB.md)
+[Top 100 Stars in Julia](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Julia.md)            
+[Top 100 Stars in MATLAB](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/MATLAB.md)            
+
+[Top 100 Stars in Ruby](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Ruby.md)        
+[Top 100 Stars in C#](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CSharp.md)
+[Top 100 Stars in C++](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CPP.md)
 
 
 (Training in programming)          
