@@ -108,11 +108,11 @@ Here are some ideas to get you started:
 
 ### BioInformatics           
 **[NiPy - analysis of neuroimaging data](https://github.com/nipy)**      
+[**Michael Waskom**](https://github.com/mwaskom) - seaborn, [Psych 216A: Statistics and data analysis in Python](https://github.com/mwaskom/Psych216)                 
 
 ### Languages           
 (Training in programming)          
 #### Python        
-[**Michael Waskom**](https://github.com/mwaskom) - seaborn, [Psych 216A: Statistics and data analysis in Python](https://github.com/mwaskom/Psych216)                 
 [**Luis Pedro Coelho**](https://github.com/luispedro) - **BioInformatics**, [Source Code for the book Building Machine Learning Systems with Python](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython), [Python Morphology Toolbox](https://github.com/luispedro/pymorph), [scikit-bio](https://github.com/luispedro/scikit-bio)               
 [Yanhao29](https://github.com/Yanhao29) - Data Science                    
 [bakunobu](https://github.com/bakunobu) - some from Python              
