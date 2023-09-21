@@ -99,8 +99,9 @@ Here are some ideas to get you started:
 
 [Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)
 
-### Training in programming languages
-#### Python
+### Languages           
+(Training in programming)          
+#### Python        
 [bakunobu](https://github.com/bakunobu)
 
 ## Other interesting repositories:                  
