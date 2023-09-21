@@ -155,30 +155,20 @@ https://osdn.net/projects/mingw
 2022 [ThinBasic](https://en.wikipedia.org/wiki/ThinBasic) - with IDE
 2021 [WxBasic](https://en.wikipedia.org/wiki/WxBasic)
 2020 [Basic-256](https://en.wikipedia.org/wiki/Basic-256) - with IDE
+
+
+- - - 
+### Работа с Gihub, оформление профиля и README-файла
+2022 [Оформляем README-файл профиля на GitHub](https://habr.com/ru/articles/649363)        
+2022 [Как креативно оформить профиль на GitHub, чтобы он привлекал внимание](https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17)                
+
+[GitHub spoiler markdown.md](https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287)
+
+**markdown-badges**: [1](https://github.com/Ileriayo/markdown-badges), [2](https://github.com/devicons/devicon)             
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)           
+[Персонализация профиля](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile)              
+
+**Примеры оформления**: [JesperDramsch](https://github.com/JesperDramsch), [daniilshat](https://github.com/daniilshat/daniilshat)
 </details>
-
-<!-- Про оформление
-2022 Оформляем README-файл профиля на GitHub
-https://habr.com/ru/articles/649363/
-2022 Как креативно оформить профиль на GitHub, чтобы он привлекал внимание
-https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
-
-GitHub spoiler markdown.md
-https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287
-
-markdown-badges
-https://github.com/Ileriayo/markdown-badges
-https://github.com/devicons/devicon/
-
-Basic writing and formatting syntax
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-Персонализация профиля
-https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile
-
-Примеры оформления
-https://github.com/JesperDramsch
-https://github.com/daniilshat/daniilshat
--->
-
 
 
