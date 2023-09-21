@@ -99,9 +99,9 @@ Here are some ideas to get you started:
 ### Quants          
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
 **[Darío López Padial](https://github.com/bukosabino)** - Technical Analysis, Financial Forecasting, 509 followers
-**[Ran Aroussi](https://github.com/ranaroussi)** - software developer, data hacker, financial tinkerer, algorithmic trader, quant researcher, technology geek, creator of several popular Python libraries, and founder of Tradologics., 2k followers, [yfinance](https://github.com/ranaroussi/yfinance)  · 
-**[TA-Lib Official Organization](https://github.com/TA-Lib)**
-**[Luigi Ballabio](https://github.com/lballabio)** - One of the administrators and lead developers of the QuantLib project
+**[Ran Aroussi](https://github.com/ranaroussi)** - software developer, data hacker, financial tinkerer, algorithmic trader, quant researcher, technology geek, creator of several popular Python libraries, and founder of Tradologics., 2k followers, [yfinance](https://github.com/ranaroussi/yfinance)  ·             
+**[TA-Lib Official Organization](https://github.com/TA-Lib)**                     
+**[Luigi Ballabio](https://github.com/lballabio)** - One of the administrators and lead developers of the QuantLib project                        
 
 [Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)
 
