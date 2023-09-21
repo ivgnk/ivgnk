@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
-**[matplotlib](https://github.com/matplotlib)** - matplotlib: plotting with Python
-**[seaborn](https://github.com/mwaskom/seaborn)** - plotting with Python
+**[matplotlib](https://github.com/matplotlib)** - matplotlib: plotting with Python                  
+**[seaborn](https://github.com/mwaskom/seaborn)** - plotting with Python                
 
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
 
@@ -104,11 +104,15 @@ Here are some ideas to get you started:
 **[TA-Lib Official Organization](https://github.com/TA-Lib)**                     
 **[Luigi Ballabio](https://github.com/lballabio)** - One of the administrators and lead developers of the QuantLib project                        
 
-[Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)
+[Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)                 
+
+### BioInformatics           
+**[NiPy - analysis of neuroimaging data](https://github.com/nipy)**      
 
 ### Languages           
 (Training in programming)          
 #### Python        
+[**Michael Waskom**](https://github.com/mwaskom) - seaborn, [Psych 216A: Statistics and data analysis in Python](https://github.com/mwaskom/Psych216)                 
 [**Luis Pedro Coelho**](https://github.com/luispedro) - **BioInformatics**, [Source Code for the book Building Machine Learning Systems with Python](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython), [Python Morphology Toolbox](https://github.com/luispedro/pymorph), [scikit-bio](https://github.com/luispedro/scikit-bio)               
 [Yanhao29](https://github.com/Yanhao29) - Data Science                    
 [bakunobu](https://github.com/bakunobu) - some from Python              
