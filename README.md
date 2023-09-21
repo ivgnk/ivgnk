@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
 **[matplotlib](https://github.com/matplotlib)** - matplotlib: plotting with Python                  
 **[seaborn](https://github.com/mwaskom/seaborn)** - plotting with Python                
-**[scikit-image](https://github.com/scikit-image)** - : Image Processing Toolbox for SciPy             
-
+**[scikit-image](https://github.com/scikit-image)** - Image Processing Toolbox for SciPy              
+[LxMLS - Lisbon Machine Learning Summer School](https://github.com/LxMLS)           
 
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
 
