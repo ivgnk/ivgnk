@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 [Dive into Deep Learning (D2L.ai)](https://github.com/d2l-ai) - [Interactive deep learning book with code, math, and discussions](https://d2l.ai/)                   
 [Polars](https://github.com/pola-rs) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends     
 
-[**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo)
-[**Chanin Nantasenamat: dataprofessor**](https://github.com/dataprofessor) - popular blogger on data scince (see Pinned Repo): [youtube: DataProfessor](https://www.youtube.com/@DataProfessor)                    
+[**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
+[**Chanin Nantasenamat: dataprofessor**](https://github.com/dataprofessor) - popular blogger on data scince (see Pinned Repo): [youtube: DataProfessor](https://www.youtube.com/@DataProfessor)                                 
 
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
