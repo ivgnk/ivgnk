@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 [Probabilistic machine learning](https://github.com/probml) - Material to accompany book series "Probabilistic Machine Learning" (Software, Data, Exercises, Figures, etc)
 [Dive into Deep Learning (D2L.ai)](https://github.com/d2l-ai) - [Interactive deep learning book with code, math, and discussions](https://d2l.ai/)                   
 [Polars](https://github.com/pola-rs) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends     
-               
+
+[**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo)
+[**Chanin Nantasenamat: dataprofessor**](https://github.com/dataprofessor) - popular blogger on data scince (see Pinned Repo): [youtube: DataProfessor](https://www.youtube.com/@DataProfessor)                    
 
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
@@ -98,6 +100,7 @@ Here are some ideas to get you started:
 ](https://github.com/GeostatsGuy/GeostatsPy)*          
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist. *[geophysical_notes](https://github.com/aadm/geophysical_notes)*                
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
+[sadaqatali2027](https://github.com/sadaqatali2027) - Geophysics, interested in DataScience and Machine learning
 
 ### Quants          
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
@@ -123,6 +126,8 @@ Here are some ideas to get you started:
 ### Geosciences   
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)             
 [Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)            
+[PetroFlow](https://github.com/sadaqatali2027/petroflow-1) - library that allows to process well data (logs, core photo etc.) and conveniently train machine learning models              
+
 
 <details>
   <summary>Other</summary>
