@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
 **[matplotlib](https://github.com/matplotlib)** - matplotlib: plotting with Python
+**[seaborn](https://github.com/mwaskom/seaborn)** - plotting with Python
 
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
 
@@ -108,6 +109,7 @@ Here are some ideas to get you started:
 ### Languages           
 (Training in programming)          
 #### Python        
+[**Luis Pedro Coelho**](https://github.com/luispedro) - **BioInformatics**, [Source Code for the book Building Machine Learning Systems with Python](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython), [Python Morphology Toolbox](https://github.com/luispedro/pymorph), [scikit-bio](https://github.com/luispedro/scikit-bio)               
 [Yanhao29](https://github.com/Yanhao29) - Data Science                    
 [bakunobu](https://github.com/bakunobu) - some from Python              
 
