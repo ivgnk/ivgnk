@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
 **[matplotlib](https://github.com/matplotlib)** - matplotlib: plotting with Python
 
-**[RStudio](https://github.com/rstudio) - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
+**[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
 
 
 **[DBeaver](https://github.com/dbeaver)** - Universal Database Managers and SQL Clients                  
