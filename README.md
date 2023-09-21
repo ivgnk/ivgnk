@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 ### Languages           
 (Training in programming)          
 #### Python        
-[**Luis Pedro Coelho**](https://github.com/luispedro) - **BioInformatics**, [Source Code for the book Building Machine Learning Systems with Python](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython), [Python Morphology Toolbox](https://github.com/luispedro/pymorph), [scikit-bio](https://github.com/luispedro/scikit-bio)               
+[**Luis Pedro Coelho**](https://github.com/luispedro) - **BioInformatics**, [Source Code for the book Building Machine Learning Systems with Python](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython), [Python Morphology Toolbox](https://github.com/luispedro/pymorph), [scikit-bio](https://github.com/luispedro/scikit-bio), [Milk is a machine learning toolkit in Python](https://github.com/luispedro/milk), [Machine Learning Datasets for Milk](https://github.com/luispedro/milksets)              
 [Yanhao29](https://github.com/Yanhao29) - Data Science                    
 [bakunobu](https://github.com/bakunobu) - some from Python              
 
