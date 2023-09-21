@@ -106,8 +106,8 @@ Here are some ideas to get you started:
 ### Languages           
 (Training in programming)          
 #### Python        
-[Yanhao29](https://github.com/Yanhao29) - Data Science
-[bakunobu](https://github.com/bakunobu)
+[Yanhao29](https://github.com/Yanhao29) - Data Science                    
+[bakunobu](https://github.com/bakunobu) - some from Python              
 
 ## Other interesting repositories:                  
 ### Geosciences   
