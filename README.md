@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 [open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [books](https://github.com/topics/books)                   
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing)                     
 [geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience), [geosciences](https://github.com/topics/geosciences), [geospatial](https://github.com/topics/geospatial), [gis](https://github.com/topics/gis), [geology](https://github.com/topics/geology), [reservoir-modeling](https://github.com/topics/reservoir-modeling)              
-[energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation), 
+        
+ 
+[energy](https://github.com/topics/energy), [energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation), 
 &nbsp;&nbsp;&nbsp;
 
 ## Following:                  
