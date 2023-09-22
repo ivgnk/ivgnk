@@ -48,8 +48,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivgnk)](https://git.io/streak-stats)
 -->
 
-## Fields of interest
-[python](https://github.com/topics/python), [books](https://github.com/topics/books), [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy)
+## Fields of interest             
+[books](https://github.com/topics/books)              
+[python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow)            
 [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [](), [](), []()
 &nbsp;&nbsp;&nbsp;
 
