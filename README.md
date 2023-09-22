@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivgnk)](https://git.io/streak-stats)
 -->
 
+## Fields of interest
+[python](https://github.com/topics/python), [books](https://github.com/topics/books), [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy)
 
 ## Following:                  
 ### STEM
