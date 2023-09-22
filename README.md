@@ -49,11 +49,12 @@ Here are some ideas to get you started:
 -->
 
 ## Fields of interest             
-[books](https://github.com/topics/books), [open-data](https://github.com/topics/open-data)              
-[python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow) [pytorch](https://github.com/topics/pytorch)           
+[open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [books](https://github.com/topics/books)                   
+[python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch)           
 [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence)                 
 [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing)                     
-[geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience),              
+[geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience), [geosciences](https://github.com/topics/geosciences), [geospatial](https://github.com/topics/geospatial)              
+[energy-data](https://github.com/topics/energy-data)
 &nbsp;&nbsp;&nbsp;
 
 ## Following:                  
