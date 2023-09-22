@@ -211,6 +211,7 @@ GitHub: [Написание математических выражений](htt
 
 **Примеры оформления**: [JesperDramsch](https://github.com/JesperDramsch), [daniilshat](https://github.com/daniilshat/daniilshat)
 
+2018 [How to add empty spaces into MD markdown readme on GitHub?](https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github)
 
 2021 [Как вставить картинку в README.md на GitHub](https://gist.github.com/oleglomako/d483f4bc8446ae11013fb6f17f979c79)      
 - - -
