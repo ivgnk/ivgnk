@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 ## Fields of interest             
 [open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [books](https://github.com/topics/books)      
                   
-[inverse-problems](https://github.com/topics/inverse-problems), [inversion](https://github.com/topics/inversion), [noise](https://github.com/topics/noise), [optimization](https://github.com/topics/optimization), [scientific-computing](https://github.com/topics/scientific-computing)             
+[inverse-problems](https://github.com/topics/inverse-problems), [inversion](https://github.com/topics/inversion), [noise](https://github.com/topics/noise), [optimization](https://github.com/topics/optimization), [scientific-computing](https://github.com/topics/scientific-computing), [partial-differential-equations](https://github.com/topics/partial-differential-equations)             
+[statistics](https://github.com/topics/statistics), [forecasting](https://github.com/topics/forecasting)                  
          
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing)     
                           
@@ -59,7 +60,10 @@ Here are some ideas to get you started:
  
 [magnetic-fields](https://github.com/topics/magnetic-fields), [fatiando-a-terra](https://github.com/topics/fatiando-a-terra), [obspy](https://github.com/topics/obspy)          
  
-[energy](https://github.com/topics/energy), [energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation), 
+[energy](https://github.com/topics/energy), [energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation),        
+<details>
+[econometrics](https://github.com/topics/econometrics), 
+</details>
 &nbsp;&nbsp;&nbsp;
 
 ## Following:                  
