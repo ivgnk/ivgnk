@@ -218,6 +218,9 @@ GitHub: [Написание математических выражений](htt
 **[Математические формулы в LaTeX](https://ru.wikibooks.org/wiki/Математические_формулы_в_LaTeX) / [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)**
 
 2021 Осваиваем LaTeX за 30 минут https://habr.com/ru/companies/ruvds/articles/574352/
+Увеличить размер уравнений/Increase the size of the equations
+https://fkn.ktu10.com/?q=node/6682
+https://tex.stackexchange.com/questions/3703/make-equations-large
 
 
 </details>
