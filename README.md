@@ -211,4 +211,4 @@ GitHub: [Закрепление элементов в профиле](https://do
 **Примеры оформления**: [JesperDramsch](https://github.com/JesperDramsch), [daniilshat](https://github.com/daniilshat/daniilshat)
 </details>
 
-
+2021 [Как вставить картинку в README.md на GitHub](https://gist.github.com/oleglomako/d483f4bc8446ae11013fb6f17f979c79)      
