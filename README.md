@@ -62,8 +62,8 @@ Here are some ideas to get you started:
  
 [energy](https://github.com/topics/energy), [energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation),        
 <details>
-   <summary>Other</summary>
- 
+   <summary>Other</summary>              
+       
 [econometrics](https://github.com/topics/econometrics), 
 </details>
 &nbsp;&nbsp;&nbsp;
