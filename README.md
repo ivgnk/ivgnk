@@ -213,5 +213,11 @@ GitHub: [Написание математических выражений](htt
 
 
 2021 [Как вставить картинку в README.md на GitHub](https://gist.github.com/oleglomako/d483f4bc8446ae11013fb6f17f979c79)      
+- - -
+### Tex/Latex
+**[Математические формулы в LaTeX](https://ru.wikibooks.org/wiki/Математические_формулы_в_LaTeX) / [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics)**
+
+2021 Осваиваем LaTeX за 30 минут https://habr.com/ru/companies/ruvds/articles/574352/
+
 
 </details>
