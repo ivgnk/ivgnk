@@ -196,6 +196,9 @@ https://osdn.net/projects/mingw
 
 - - - 
 ### Работа с Gihub, оформление профиля и README-файла
+[GitHub: Закрепление элементов в профиле](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)/[Pinning items to your profile
+](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)             
+
 2022 [Оформляем README-файл профиля на GitHub](https://habr.com/ru/articles/649363)        
 2022 [Как креативно оформить профиль на GitHub, чтобы он привлекал внимание](https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17)                
 
