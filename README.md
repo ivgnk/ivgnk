@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## Fields of interest
 [python](https://github.com/topics/python), [books](https://github.com/topics/books), [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy)
+[big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [](), [](), [](), [](), []()
+&nbsp; &nbsp; &nbsp;
 
 ## Following:                  
 ### STEM
