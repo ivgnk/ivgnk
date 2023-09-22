@@ -195,7 +195,8 @@ https://osdn.net/projects/mingw
 
 
 - - - 
-### Работа с Gihub, оформление профиля и README-файла / Working with Github, creating a profile and a README file
+### Работа с Gihub, оформление профиля и README-файла /               
+### Working with Github, creating a profile and a README file                 
 GitHub: [Закрепление элементов в профиле](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)/[Pinning items to your profile
 ](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)             
 GitHub: [Написание математических выражений](https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
