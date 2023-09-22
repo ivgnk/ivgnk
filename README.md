@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [books](https://github.com/topics/books)      
                   
 [inverse-problems](https://github.com/topics/inverse-problems), [inversion](https://github.com/topics/inversion), [noise](https://github.com/topics/noise), [optimization](https://github.com/topics/optimization), [scientific-computing](https://github.com/topics/scientific-computing), [partial-differential-equations](https://github.com/topics/partial-differential-equations)             
-[statistics](https://github.com/topics/statistics), [forecasting](https://github.com/topics/forecasting), [robust-estimation](https://github.com/topics/robust-estimation)                  
+[statistics](https://github.com/topics/statistics), [forecasting](https://github.com/topics/forecasting), [robust-estimation](https://github.com/topics/robust-estimation), [hypothesis-testing](https://github.com/topics/hypothesis-testing), [monte-carlo-methods](https://github.com/topics/monte-carlo-methods), [kalman-filter](https://github.com/topics/kalman-filter)                  
          
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing), [computer-vision](https://github.com/topics/computer-vision), [image-processing](https://github.com/topics/image-processing)     
                           
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <details>
    <summary>Other</summary>              
        
-[econometrics](https://github.com/topics/econometrics), 
+[econometrics](https://github.com/topics/econometrics), [financial-mathematics](https://github.com/topics/financial-mathematics), [financial-engineering](https://github.com/topics/financial-engineering), [quantitative-finance](https://github.com/topics/quantitative-finance), 
 </details>
 &nbsp;&nbsp;&nbsp;
 
