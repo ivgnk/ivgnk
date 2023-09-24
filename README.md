@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 -->
 
 ## Fields of interest             
-data, boors, tutorials:                
+data, books, tutorials:                
 [open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [datasets](https://github.com/topics/datasets), [timeseries](https://github.com/topics/timeseries),[books](https://github.com/topics/books), [tutorial-code](https://github.com/topics/tutorial-code)      
 
 common science problems and methods:          
