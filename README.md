@@ -49,23 +49,30 @@ Here are some ideas to get you started:
 -->
 
 ## Fields of interest             
+data, boors, tutorials:                
 [open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [datasets](https://github.com/topics/datasets), [timeseries](https://github.com/topics/timeseries),[books](https://github.com/topics/books), [tutorial-code](https://github.com/topics/tutorial-code)      
-                  
+
+common science problems and methods:          
 [inverse-problems](https://github.com/topics/inverse-problems), [inversion](https://github.com/topics/inversion), [noise](https://github.com/topics/noise), [optimization](https://github.com/topics/optimization), [scientific-computing](https://github.com/topics/scientific-computing), [partial-differential-equations](https://github.com/topics/partial-differential-equations)             
 [statistics](https://github.com/topics/statistics), [forecasting](https://github.com/topics/forecasting), [statistical-analysis](https://github.com/topics/statistical-analysis), [robust-estimation](https://github.com/topics/robust-estimation), [hypothesis-testing](https://github.com/topics/hypothesis-testing), [monte-carlo-methods](https://github.com/topics/monte-carlo-methods), [kalman-filter](https://github.com/topics/kalman-filter), [bayesian-inference](https://github.com/topics/bayesian-inference)                             
-         
+libraries (mostly Python):                     
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing), [computer-vision](https://github.com/topics/computer-vision), [image-processing](https://github.com/topics/image-processing), [supervised-learning](https://github.com/topics/supervised-learning), [unsupervised-learning](https://github.com/topics/unsupervised-learning), [streamlit](https://github.com/topics/streamlit)      
-                          
+
+sciences:                          
 [earth-science](https://github.com/topics/earth-science), [geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience), [geosciences](https://github.com/topics/geosciences), [geospatial](https://github.com/topics/geospatial), [geodesy](https://github.com/topics/geodesy), [gis](https://github.com/topics/gis), [geology](https://github.com/topics/geology), [reservoir-modeling](https://github.com/topics/reservoir-modeling)              
- 
+
+in geosciences:          
 [magnetic-fields](https://github.com/topics/magnetic-fields), [gravity-field](https://github.com/topics/gravity-field), [gravimetry](https://github.com/topics/gravimetry), [fatiando-a-terra](https://github.com/topics/fatiando-a-terra), [obspy](https://github.com/topics/obspy),           
- 
+
+energy:          
 [energy](https://github.com/topics/energy), [energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation),        
 <details>
    <summary>Other</summary>              
-       
+
+economics & finance:          
 [econometrics](https://github.com/topics/econometrics), [economics](https://github.com/topics/economics), [finance](https://github.com/topics/finance),[financial-mathematics](https://github.com/topics/financial-mathematics), [financial-engineering](https://github.com/topics/financial-engineering), [quantitative-finance](https://github.com/topics/quantitative-finance), [fintech](https://github.com/topics/fintech), [trading](https://github.com/topics/trading), [technical-analysis](https://github.com/topics/technical-analysis), [algo-trading](https://github.com/topics/algo-trading), [algotrading](https://github.com/topics/algotrading), [quantitative-trading](https://github.com/topics/quantitative-trading), [quant](https://github.com/topics/quant), [backtesting](https://github.com/topics/backtesting), [stock-price-prediction](https://github.com/topics/stock-price-prediction)                                              
 
+economics & finance data:          
 [economic-data](https://github.com/topics/economic-data), [financial-data](https://github.com/topics/financial-data), [yahoo-finance](https://github.com/topics/yahoo-finance), [stock-data](https://github.com/topics/stock-data), [quant-dataset](https://github.com/topics/quant-dataset), [google-finance](https://github.com/topics/google-finance), [market-data](https://github.com/topics/market-data), [sec](https://github.com/topics/sec), [edgar](https://github.com/topics/edgar)                           
 </details>
 &nbsp;&nbsp;&nbsp;
