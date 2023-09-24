@@ -59,7 +59,7 @@ common science problems and methods:
 libraries (mostly Python):                     
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing), [computer-vision](https://github.com/topics/computer-vision), [image-processing](https://github.com/topics/image-processing), [supervised-learning](https://github.com/topics/supervised-learning), [unsupervised-learning](https://github.com/topics/unsupervised-learning), [streamlit](https://github.com/topics/streamlit)      
 
-sciences:                          
+sciences and their parts:                          
 [earth-science](https://github.com/topics/earth-science), [geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience), [geosciences](https://github.com/topics/geosciences), [geospatial](https://github.com/topics/geospatial), [geodesy](https://github.com/topics/geodesy), [gis](https://github.com/topics/gis), [geology](https://github.com/topics/geology), [reservoir-modeling](https://github.com/topics/reservoir-modeling)              
 
 in geosciences:          
