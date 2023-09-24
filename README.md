@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 
 ## Following:                  
+### Links collections 
+**[SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo
+
 ### STEM
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
@@ -112,6 +115,8 @@ Here are some ideas to get you started:
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 **[Madagascar](https://github.com/ahay)** - Open-Source Software Package for Multidimensional Data Analysis                               
+**[Fatiando a Terra](https://github.com/fatiando)** - Open-source Python tools for geophysics
+
 **[Patrick-Cole](https://github.com/Patrick-Cole)** - Council for Geoscience. *[pygmi](https://github.com/Patrick-Cole/pygmi)*              
 **[Alexey Pechnikov](https://github.com/mobigroup)** - GIS and Geo Science Programming, Modeling, and Machine Learning (Habr). *[3D Gravity and Magnetic Inversion Models on Ellipsoid (Globe)](https://github.com/mobigroup/ellipsoid)*         
 **[myak555](https://github.com/myak555)** - *["Limits to Limits" book model code and data files](https://github.com/myak555/LIMITS_TO_LIMITS)* - Big energy prognosis                   
@@ -130,6 +135,9 @@ Here are some ideas to get you started:
 **[Ran Aroussi](https://github.com/ranaroussi)** - software developer, data hacker, financial tinkerer, algorithmic trader, quant researcher, technology geek, creator of several popular Python libraries, and founder of Tradologics., 2k followers, [yfinance](https://github.com/ranaroussi/yfinance)  ·             
 **[TA-Lib Official Organization](https://github.com/TA-Lib)**                     
 **[Luigi Ballabio](https://github.com/lballabio)** - One of the administrators and lead developers of the QuantLib project                        
+
+[Azzrael AzzraelCode](https://github.com/AzzraelCode) - [Moex with Python](https://www.youtube.com/playlist?list=PLWVnIRD69wY62qRnOw8EjaKyC8buYe1GH)
+
 
 [Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)                 
 
