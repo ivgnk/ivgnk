@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## Fields of interest             
 data, books, tutorials:                
-[open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [datasets](https://github.com/topics/datasets), [timeseries](https://github.com/topics/timeseries),[books](https://github.com/topics/books), [tutorial-code](https://github.com/topics/tutorial-code)      
+[open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [datasets](https://github.com/topics/datasets), [timeseries](https://github.com/topics/timeseries),[books](https://github.com/topics/books), [tutorial-code](https://github.com/topics/tutorial-code), [Packt](https://github.com/PacktPublishing)         
 
 common science problems and methods:          
 [inverse-problems](https://github.com/topics/inverse-problems), [inversion](https://github.com/topics/inversion), [noise](https://github.com/topics/noise), [optimization](https://github.com/topics/optimization), [scientific-computing](https://github.com/topics/scientific-computing), [partial-differential-equations](https://github.com/topics/partial-differential-equations)             
@@ -105,6 +105,7 @@ economics & finance data:
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
 [**MorvanZhou**](https://github.com/MorvanZhou) - Deep Learning Research & Development at Tencent (одна из крупнейших инвестиционных и венчурных компаний Китая)                                  
 [**Chanin Nantasenamat: dataprofessor**](https://github.com/dataprofessor) - popular blogger on data scince (see Pinned Repo): [youtube: DataProfessor](https://www.youtube.com/@DataProfessor)                                 
+[François Chollet](https://github.com/fchollet) - deep learning,  15.4k followers, 124 Stars
 
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
