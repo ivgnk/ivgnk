@@ -119,6 +119,7 @@ economics & finance data:
 
 ### Geosciences     
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
+**[GeoPandas](https://github.com/geopandas)** - Python tools for geographic data
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
 [groupeLIAMG](https://github.com/groupeLIAMG) - Laboratoire d'Interprétation et Acquisition des Mesures en Géosciences. *[Interactive data processing and analysis tool to compute the Curie point depth from aeromagnetic data](https://github.com/groupeLIAMG/pycpd)*                                                                       
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
