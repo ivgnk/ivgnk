@@ -135,6 +135,7 @@ economics & finance data:
 [pysit](https://github.com/pysit) - *[Seismic Inversion Toolbox in Python](https://pysit.readthedocs.io/en/latest/)*               
 **[Michael Pyrcz](https://github.com/GeostatsGuy)** - a professor working in Data Analytics, Geostatistics and Machine Learning. *[GeostatsPy
 ](https://github.com/GeostatsGuy/GeostatsPy)*          
+[Mirko Mälicke](https://github.com/mmaelicke) -  geostatistics? 35 Stars - *[scikit-gstat](https://github.com/mmaelicke/scikit-gstat) - SciKit-Gstat is a scipy-styled analysis module for geostatistics* - 195 Stars
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist. *[geophysical_notes](https://github.com/aadm/geophysical_notes)*                
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
 [sadaqatali2027](https://github.com/sadaqatali2027) - Geophysics, interested in DataScience and Machine learning
