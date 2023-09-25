@@ -103,6 +103,7 @@ economics & finance data:
 [Dive into Deep Learning (D2L.ai)](https://github.com/d2l-ai) - [Interactive deep learning book with code, math, and discussions](https://d2l.ai/)                   
 [Polars](https://github.com/pola-rs) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends     
 
+**[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
 [**MorvanZhou**](https://github.com/MorvanZhou) - Deep Learning Research & Development at Tencent (одна из крупнейших инвестиционных и венчурных компаний Китая)                                  
 [**Chanin Nantasenamat: dataprofessor**](https://github.com/dataprofessor) - popular blogger on data scince (see Pinned Repo): [youtube: DataProfessor](https://www.youtube.com/@DataProfessor)                                 
@@ -145,7 +146,9 @@ economics & finance data:
 [Mirko Mälicke](https://github.com/mmaelicke) -  geostatistics, 35 Stars - *[scikit-gstat](https://github.com/mmaelicke/scikit-gstat) - SciKit-Gstat is a scipy-styled analysis module for geostatistics* - 195 Stars                    
 [Alessandro Amato del Monte](https://github.com/aadm) - geophysicist/explorationist. *[geophysical_notes](https://github.com/aadm/geophysical_notes)*                
 [Felipe Melo](https://github.com/ffigura) - Phd in applied geophysics. *[Euler-deconvolution](https://github.com/ffigura/Euler-deconvolution-python)*
-[sadaqatali2027](https://github.com/sadaqatali2027) - Geophysics, interested in DataScience and Machine learning
+[sadaqatali2027](https://github.com/sadaqatali2027) - Geophysics, interested in DataScience and Machine learning                  
+[Craig Phillips](https://github.com/Philliec459) - PetroPhysics - [Semantic-Segmentation-of-Petrographic-Thin-Sections-using-Keras](https://github.com/Philliec459/Semantic-Segmentation-of-Petrographic-Thin-Sections-using-Keras)
+
 
 ### Quants          
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
@@ -176,6 +179,9 @@ economics & finance data:
 [Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)            
 [PetroFlow](https://github.com/sadaqatali2027/petroflow-1) - library that allows to process well data (logs, core photo etc.) and conveniently train machine learning models              
 
+[tensorflow-image-classification](https://github.com/rdcolema/tensorflow-image-classification)              
+[keras-image-classification](https://github.com/rdcolema/keras-image-classification)       
+[pytorch-image-classification](https://github.com/rdcolema/pytorch-image-classification)                 
 
 <details>
   <summary>Other</summary>
