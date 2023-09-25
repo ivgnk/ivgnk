@@ -174,14 +174,16 @@ economics & finance data:
 [bakunobu](https://github.com/bakunobu) - some from Python              
 
 ## Other interesting repositories:                  
+### STEM
+[tensorflow-image-classification](https://github.com/rdcolema/tensorflow-image-classification)              
+[keras-image-classification](https://github.com/rdcolema/keras-image-classification)       
+[pytorch-image-classification](https://github.com/rdcolema/pytorch-image-classification)                 
+
 ### Geosciences   
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)             
 [Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)            
 [PetroFlow](https://github.com/sadaqatali2027/petroflow-1) - library that allows to process well data (logs, core photo etc.) and conveniently train machine learning models              
 
-[tensorflow-image-classification](https://github.com/rdcolema/tensorflow-image-classification)              
-[keras-image-classification](https://github.com/rdcolema/keras-image-classification)       
-[pytorch-image-classification](https://github.com/rdcolema/pytorch-image-classification)                 
 
 <details>
   <summary>Other</summary>
