@@ -60,7 +60,7 @@ libraries (mostly Python):
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing), [computer-vision](https://github.com/topics/computer-vision), [image-processing](https://github.com/topics/image-processing), [supervised-learning](https://github.com/topics/supervised-learning), [unsupervised-learning](https://github.com/topics/unsupervised-learning), [streamlit](https://github.com/topics/streamlit)      
 
 sciences and their parts:                          
-[earth-science](https://github.com/topics/earth-science), [geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience), [geosciences](https://github.com/topics/geosciences), [geospatial](https://github.com/topics/geospatial), [geodesy](https://github.com/topics/geodesy), [gis](https://github.com/topics/gis), [geology](https://github.com/topics/geology), [reservoir-modeling](https://github.com/topics/reservoir-modeling)              
+[earth-science](https://github.com/topics/earth-science), [geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience), [geosciences](https://github.com/topics/geosciences), [geospatial](https://github.com/topics/geospatial), [geodesy](https://github.com/topics/geodesy), [gis](https://github.com/topics/gis), [geology](https://github.com/topics/geology), [reservoir-modeling](https://github.com/topics/reservoir-modeling), [maps](https://github.com/topics/maps?l=python), [spatial-data](https://github.com/topics/spatial-data)              
 
 in geosciences:          
 [magnetic-fields](https://github.com/topics/magnetic-fields), [gravity-field](https://github.com/topics/gravity-field), [gravimetry](https://github.com/topics/gravimetry), [fatiando-a-terra](https://github.com/topics/fatiando-a-terra), [obspy](https://github.com/topics/obspy),           
@@ -110,6 +110,7 @@ economics & finance data:
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
 
+[Patrick Loeber](https://github.com/patrickloeber)  -  create free content about Python and AI on YouTube and my website, 4.7k followers, 13 Stars,  
 [Chris / ChristosChristofidis](https://github.com/ChristosChristofidis) -  Deep/Machine Learning. 140 Repo, 893 Stars                              
 [Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars                        
 
@@ -120,7 +121,11 @@ economics & finance data:
 ### Geosciences     
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
 **[GeoPandas](https://github.com/geopandas)** - Python tools for geographic data
-**[geopython](https://github.com/geopython)**
+**[geopython](https://github.com/geopython)** - [cartopy](https://github.com/SciTools/cartopy) - is a Python package designed to make drawing maps for data analysis and visualisation easy
+**[The Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools)** - Tools for manipulating geographic and Cartesian data and creating plots, maps, and 3D views
+**[SciTools](https://github.com/SciTools)** - to produce powerful Python-based open-source tools for Earth scientists>, Repo 35, Projects 13                      
+                
+
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
 [groupeLIAMG](https://github.com/groupeLIAMG) - Laboratoire d'Interprétation et Acquisition des Mesures en Géosciences. *[Interactive data processing and analysis tool to compute the Curie point depth from aeromagnetic data](https://github.com/groupeLIAMG/pycpd)*                                                                       
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
