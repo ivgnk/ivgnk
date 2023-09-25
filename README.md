@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## Fields of interest             
 data, books, tutorials:                
-[open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [datasets](https://github.com/topics/datasets), [timeseries](https://github.com/topics/timeseries),[books](https://github.com/topics/books), [tutorial-code](https://github.com/topics/tutorial-code), [Packt](https://github.com/PacktPublishing)         
+[open-source](https://github.com/topics/open-source), [open-data](https://github.com/topics/open-data), [open-science](https://github.com/topics/open-science), [datasets](https://github.com/topics/datasets), [timeseries](https://github.com/topics/timeseries),[books](https://github.com/topics/books), [tutorial-code](https://github.com/topics/tutorial-code)
 
 common science problems and methods:          
 [inverse-problems](https://github.com/topics/inverse-problems), [inversion](https://github.com/topics/inversion), [noise](https://github.com/topics/noise), [optimization](https://github.com/topics/optimization), [scientific-computing](https://github.com/topics/scientific-computing), [partial-differential-equations](https://github.com/topics/partial-differential-equations)             
@@ -80,7 +80,8 @@ economics & finance data:
 
 ## Following:                  
 ### Links collections 
-**[SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo
+**[Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo
+**[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                             
 
 ### STEM
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
