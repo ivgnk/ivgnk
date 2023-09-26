@@ -182,7 +182,7 @@ economics & finance data:
 
 ## Other interesting repositories:                  
 ### STEM
-[microsoft python repositories](https://github.com/orgs/microsoft/repositories?q=&type=all&language=python&sort=stargazers) - 832 repo                    
+**[microsoft python repositories](https://github.com/orgs/microsoft/repositories?q=&type=all&language=python&sort=stargazers)** - 832 repo                    
 [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks               
 [tensorflow-image-classification](https://github.com/rdcolema/tensorflow-image-classification)              
 [keras-image-classification](https://github.com/rdcolema/keras-image-classification)       
@@ -192,7 +192,7 @@ economics & finance data:
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)             
 [Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)            
 [PetroFlow](https://github.com/sadaqatali2027/petroflow-1) - library that allows to process well data (logs, core photo etc.) and conveniently train machine learning models              
-
+[A numerical model designed for study of the atmosphere, ocean, and climate](https://github.com/MITgcm/) - [site](https://mitgcm.org)
 
 <details>
   <summary>Other</summary>
