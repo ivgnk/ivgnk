@@ -80,15 +80,24 @@ economics & finance data:
 
 ## Following:                  
 ### Links collections 
-**[Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo                           
-**[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                              
-[Data Carpentry](https://github.com/datacarpentry) - Workshops teaching scientists basic skills for retrieving, viewing, managing, and manipulating data                     
+[Github: Topics](https://github.com/topics)      
+[Github: Topics: Python](https://github.com/topics/python)             
+[Github: Topics: Jupyter Notebook](https://github.com/topics/jupyter-notebook)               
+[Github: Topics: Documentation](https://github.com/topics/documentation)             
+[Github: Collections](https://github.com/collections)             
+[Github: Open source organizations list](https://github.com/collections/open-source-organizations)                    
+[List of companies that use GitHub](https://github.com/d2s/companies)
 
 **[Github Trending](https://github.com/trending)**              
 **[Github Trending Python daily](https://github.com/trending/python?since=daily)**                
 **[Github Trending Python monthly](https://github.com/trending/python?since=monthly)**                  
 **[Github Trending Jupyter notebook monthly](https://github.com/trending/jupyter-notebook?since=monthly)**
 [How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)               
+
+**[Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo                           
+**[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                              
+[Data Carpentry](https://github.com/datacarpentry) - Workshops teaching scientists basic skills for retrieving, viewing, managing, and manipulating data                     
+
 
 ### STEM
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies**         
