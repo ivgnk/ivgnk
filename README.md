@@ -197,7 +197,6 @@ economics & finance data:
 **[microsoft python repositories](https://github.com/orgs/microsoft/repositories?q=&type=all&language=python&sort=stargazers)** - 832 repo                    
 [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks                    
 **[meta/FB python repositories](https://github.com/orgs/facebook/repositories?q=&type=all&language=python&sort=stargazers)** - 11 repo, [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth                   
-Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growt         
 **[apple python repositories](https://github.com/orgs/apple/repositories?q=&type=all&language=python&sort=stargazers)**
 **[]()**
 
