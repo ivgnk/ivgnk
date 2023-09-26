@@ -90,6 +90,7 @@ economics & finance data:
 [How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)               
 
 ### STEM
+**[The Algorithms](https://github.com/TheAlgorithms)** - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language         
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
