@@ -113,6 +113,7 @@ economics & finance data:
 **[scikit-image](https://github.com/scikit-image)** - Image Processing Toolbox for SciPy              
 **[Python for Data](https://github.com/pydata)** -    https://github.com/orgs/pydata/repositories          
 
+[PPPLDeepLearning](https://github.com/PPPLDeepLearning)     
 [LxMLS - Lisbon Machine Learning Summer School](https://github.com/LxMLS)            
 
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
