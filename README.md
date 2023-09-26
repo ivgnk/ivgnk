@@ -188,7 +188,9 @@ economics & finance data:
 [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks               
 [tensorflow-image-classification](https://github.com/rdcolema/tensorflow-image-classification)              
 [keras-image-classification](https://github.com/rdcolema/keras-image-classification)       
-[pytorch-image-classification](https://github.com/rdcolema/pytorch-image-classification)                 
+[pytorch-image-classification](https://github.com/rdcolema/pytorch-image-classification)     
+[image-processing](https://github.com/datacarpentry/image-processing) - Image Processing with Python       
+**[MIT Office of Digital Learning](https://github.com/mitodl)**
 
 ### Geosciences   
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)             
