@@ -121,7 +121,8 @@ economics & finance data:
 
 
 ### Geosciences   
-**[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)
+**[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)                     
+**[Software Underground](https://github.com/softwareunderground)** - community of digital subsurface professionals. We are academic and applied geologists, geophysicists, engineers, and others.
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
 **[GeoPandas](https://github.com/geopandas)** - Python tools for geographic data
 **[geopython](https://github.com/geopython)** - [cartopy](https://github.com/SciTools/cartopy) - is a Python package designed to make drawing maps for data analysis and visualisation easy
