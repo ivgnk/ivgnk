@@ -120,7 +120,8 @@ economics & finance data:
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
 
 
-### Geosciences     
+### Geosciences   
+**[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data
 **[GeoPandas](https://github.com/geopandas)** - Python tools for geographic data
 **[geopython](https://github.com/geopython)** - [cartopy](https://github.com/SciTools/cartopy) - is a Python package designed to make drawing maps for data analysis and visualisation easy
