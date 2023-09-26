@@ -136,11 +136,13 @@ economics & finance data:
 
 **[Madagascar](https://github.com/ahay)** - Open-Source Software Package for Multidimensional Data Analysis                               
 **[Fatiando a Terra](https://github.com/fatiando)** - Open-source Python tools for geophysics
+[Shingle Project](https://github.com/shingleproject) - [Shingle](https://github.com/shingleproject/Shingle) - Generalised self-consistent and automated domain discretisation for multi-scale geophysical models         
 
 **[Patrick-Cole](https://github.com/Patrick-Cole)** - Council for Geoscience. *[pygmi](https://github.com/Patrick-Cole/pygmi)*              
 **[Alexey Pechnikov](https://github.com/mobigroup)** - GIS and Geo Science Programming, Modeling, and Machine Learning (Habr). *[3D Gravity and Magnetic Inversion Models on Ellipsoid (Globe)](https://github.com/mobigroup/ellipsoid)*         
 **[myak555](https://github.com/myak555)** - *["Limits to Limits" book model code and data files](https://github.com/myak555/LIMITS_TO_LIMITS)* - Big energy prognosis                   
 [Matteo Niccoli](https://github.com/mycarta) - Data-driven geoscientist. 188 Repo, 443 Stars                              
+[Nikolay Koldunov](https://github.com/koldunovn) - Germany, Alfred Wegener Institute for Polar and Marine Research,  241 followers, 308 Stars. [python_for_geosciences](https://github.com/koldunovn/python_for_geosciences), [python_data_train](https://github.com/koldunovn/python_data_train),               
 
 [pysit](https://github.com/pysit) - *[Seismic Inversion Toolbox in Python](https://pysit.readthedocs.io/en/latest/)*               
 **[Michael Pyrcz](https://github.com/GeostatsGuy)** - a professor working in Data Analytics, Geostatistics and Machine Learning. *[GeostatsPy
