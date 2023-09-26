@@ -78,8 +78,7 @@ economics & finance data:
 </details>
 &nbsp;&nbsp;&nbsp;
 
-## Following:                  
-### Links collections 
+## Github guide
 **[Github: Topics](https://github.com/topics)      
 [Github: Topics: Python](https://github.com/topics/python)             
 [Github: Topics: Jupyter Notebook](https://github.com/topics/jupyter-notebook)               
@@ -94,6 +93,9 @@ economics & finance data:
 **[Github Trending Jupyter notebook monthly](https://github.com/trending/jupyter-notebook?since=monthly)**                       
 [How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)               
 
+
+## Following:                  
+### Links collections 
 **[Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo                           
 **[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                              
 [Data Carpentry](https://github.com/datacarpentry) - Workshops teaching scientists basic skills for retrieving, viewing, managing, and manipulating data                     
