@@ -84,6 +84,11 @@ economics & finance data:
 **[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                              
 [Data Carpentry](https://github.com/datacarpentry) - Workshops teaching scientists basic skills for retrieving, viewing, managing, and manipulating data                     
 
+**[Github Trending](https://github.com/trending)**
+**[Github Trending Python daily](https://github.com/trending/python?since=daily)**
+**[Github Trending Python monthly](https://github.com/trending/python?since=monthly)**
+[How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)
+
 ### STEM
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
@@ -184,10 +189,16 @@ economics & finance data:
 
 ## Other interesting repositories:                  
 ### STEM
+### Big IT Companies (different ML tools), see also language=Jupyter Notebook
+
 **[microsoft python repositories](https://github.com/orgs/microsoft/repositories?q=&type=all&language=python&sort=stargazers)** - 832 repo                    
+[LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks                    
 **[meta/FB python repositories](https://github.com/orgs/facebook/repositories?q=&type=all&language=python&sort=stargazers)** - 11 repo, [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth                   
 Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growt         
-[LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks               
+**[apple python repositories](https://github.com/orgs/apple/repositories?q=&type=all&language=python&sort=stargazers)**
+**[]()**
+
+        
 [tensorflow-image-classification](https://github.com/rdcolema/tensorflow-image-classification)              
 [keras-image-classification](https://github.com/rdcolema/keras-image-classification)       
 [pytorch-image-classification](https://github.com/rdcolema/pytorch-image-classification)     
