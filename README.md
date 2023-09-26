@@ -104,13 +104,16 @@ economics & finance data:
 ### STEM
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies**         
 **[The Algorithms](https://github.com/TheAlgorithms)** - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language         
+
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
 **[NumPy](https://github.com/numpy)** - The fundamental package for scientific computing with Python                
 **[Keras](https://github.com/keras-team)** - Deep Learning for humans            
 **[matplotlib](https://github.com/matplotlib)** - matplotlib: plotting with Python                  
 **[seaborn](https://github.com/mwaskom/seaborn)** - plotting with Python                
 **[scikit-image](https://github.com/scikit-image)** - Image Processing Toolbox for SciPy              
-[LxMLS - Lisbon Machine Learning Summer School](https://github.com/LxMLS)           
+**[Python for Data](https://github.com/pydata)** -    https://github.com/orgs/pydata/repositories          
+
+[LxMLS - Lisbon Machine Learning Summer School](https://github.com/LxMLS)            
 
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
 
@@ -142,6 +145,7 @@ economics & finance data:
 
 
 ### Geosciences   
+**[Pangeo](https://github.com/pangeo-data)** - A community effort for big data geoscience        
 **[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)                     
 **[Software Underground](https://github.com/softwareunderground)** - community of digital subsurface professionals. We are academic and applied geologists, geophysicists, engineers, and others.         
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data            
