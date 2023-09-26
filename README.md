@@ -84,10 +84,10 @@ economics & finance data:
 **[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                              
 [Data Carpentry](https://github.com/datacarpentry) - Workshops teaching scientists basic skills for retrieving, viewing, managing, and manipulating data                     
 
-**[Github Trending](https://github.com/trending)**
-**[Github Trending Python daily](https://github.com/trending/python?since=daily)**
-**[Github Trending Python monthly](https://github.com/trending/python?since=monthly)**
-[How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)
+**[Github Trending](https://github.com/trending)**              
+**[Github Trending Python daily](https://github.com/trending/python?since=daily)**                
+**[Github Trending Python monthly](https://github.com/trending/python?since=monthly)**                  
+[How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)               
 
 ### STEM
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
