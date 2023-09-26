@@ -80,8 +80,8 @@ economics & finance data:
 
 ## Following:                  
 ### Links collections 
-**[Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo
-**[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                             
+**[Elsevier SoftwareX](https://github.com/ElsevierSoftwareX)** -  Open Access Software publication - 1.1k repo                           
+**[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                              
 
 ### STEM
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
