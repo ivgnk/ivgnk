@@ -166,7 +166,8 @@ economics & finance data:
 [Azzrael AzzraelCode](https://github.com/AzzraelCode) - [Moex with Python](https://www.youtube.com/playlist?list=PLWVnIRD69wY62qRnOw8EjaKyC8buYe1GH)
 
 
-[Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)                 
+[Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)            
+[Tomoaki Fujii](https://github.com/jjakimoto) - [finance_ml](https://github.com/jjakimoto/finance_ml) - Advances in Financial Machine Learning                     
 
 ### BioInformatics           
 **[NiPy - analysis of neuroimaging data](https://github.com/nipy)**      
