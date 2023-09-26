@@ -226,7 +226,9 @@ economics & finance data:
 [Geoanalytics-and-Machine-Learning](https://github.com/victsnet/Geoanalytics-and-Machine-Learning)             
 [Tutorials from The Leading Edge](https://github.com/71unxv/tutorials-2016)            
 [PetroFlow](https://github.com/sadaqatali2027/petroflow-1) - library that allows to process well data (logs, core photo etc.) and conveniently train machine learning models              
-[A numerical model designed for study of the atmosphere, ocean, and climate](https://github.com/MITgcm/) - [site](https://mitgcm.org)
+#### Ocean, Climate      
+[MITgcm](https://github.com/MITgcm/) - [site](https://mitgcm.org) - A numerical model designed for study of the atmosphere, ocean, and climate        
+[COSIMA](https://github.com/COSIMA) - Consortium for Ocean-Sea Ice Modelling in Australia         
 
 <details>
   <summary>Other</summary>
