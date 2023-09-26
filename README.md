@@ -193,6 +193,7 @@ Tool for producing high quality forecasts for time series data that has multiple
 [pytorch-image-classification](https://github.com/rdcolema/pytorch-image-classification)     
 [image-processing](https://github.com/datacarpentry/image-processing) - Image Processing with Python    
 [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm                 
+[PyMySQL](https://github.com/PyMySQL) - MySQL client library for Python           
 
 **[MIT Office of Digital Learning](https://github.com/mitodl)**         
 [Oak Ridge Leadership Computing Facility](https://github.com/olcf)            
