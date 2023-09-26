@@ -128,6 +128,8 @@ economics & finance data:
 **[geopython](https://github.com/geopython)** - [cartopy](https://github.com/SciTools/cartopy) - is a Python package designed to make drawing maps for data analysis and visualisation easy           
 **[The Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools)** - Tools for manipulating geographic and Cartesian data and creating plots, maps, and 3D views             
 **[SciTools](https://github.com/SciTools)** - to produce powerful Python-based open-source tools for Earth scientists>, Repo 35, Projects 13                      
+[FESOM](https://github.com/FESOM) - [fesom2](https://github.com/FESOM/fesom2) - The Finite Element Sea Ice-Ocean Model, [Site](https://fesom.de)                    
+
                 
 
 **[SEG](https://github.com/seg)** - Society of Exploration Geophysicists           
