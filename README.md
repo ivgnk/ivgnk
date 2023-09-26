@@ -80,13 +80,13 @@ economics & finance data:
 
 ## Following:                  
 ### Links collections 
-[Github: Topics](https://github.com/topics)      
+**[Github: Topics](https://github.com/topics)      
 [Github: Topics: Python](https://github.com/topics/python)             
 [Github: Topics: Jupyter Notebook](https://github.com/topics/jupyter-notebook)               
 [Github: Topics: Documentation](https://github.com/topics/documentation)             
 [Github: Collections](https://github.com/collections)             
 [Github: Open source organizations list](https://github.com/collections/open-source-organizations)                    
-[List of companies that use GitHub](https://github.com/d2s/companies)
+[List of companies that use GitHub](https://github.com/d2s/companies)**
 
 **[Github Trending](https://github.com/trending)**              
 **[Github Trending Python daily](https://github.com/trending/python?since=daily)**                
