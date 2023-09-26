@@ -135,7 +135,7 @@ economics & finance data:
 [swag-kaust](https://github.com/swag-kaust) - Seismic Wave Analysis Group  
 
 **[Madagascar](https://github.com/ahay)** - Open-Source Software Package for Multidimensional Data Analysis                               
-**[Fatiando a Terra](https://github.com/fatiando)** - Open-source Python tools for geophysics
+**[Fatiando a Terra](https://github.com/fatiando)** - Open-source Python tools for geophysics             
 [Shingle Project](https://github.com/shingleproject) - [Shingle](https://github.com/shingleproject/Shingle) - Generalised self-consistent and automated domain discretisation for multi-scale geophysical models         
 
 **[Patrick-Cole](https://github.com/Patrick-Cole)** - Council for Geoscience. *[pygmi](https://github.com/Patrick-Cole/pygmi)*              
