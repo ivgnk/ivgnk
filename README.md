@@ -59,15 +59,18 @@ libraries (mostly Python):
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing), [computer-vision](https://github.com/topics/computer-vision), [image-processing](https://github.com/topics/image-processing), [supervised-learning](https://github.com/topics/supervised-learning), [unsupervised-learning](https://github.com/topics/unsupervised-learning), [streamlit](https://github.com/topics/streamlit)      
 
 <details>
-   <summary>r-lang</summary>           
+   <summary>R-lang</summary>           
        
-[r-lang](https://github.com/topics/r)       
+[R-lang](https://github.com/topics/r)       
 [awesome-R](https://github.com/qinwf/awesome-R) - list of awesome R packages, frameworks and software            
 [tidyverse](https://github.com/tidyverse) - collection of R packages that share common principles and are designed to work together seamlessly                   
 [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - list of R tutorials for Data Science, NLP and Machine Learning            
 [r4ds](https://github.com/hadley/r4ds) - R for data science: a book           
 [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown         
 [ggplot2](https://github.com/tidyverse/ggplot2), [shiny](https://github.com/rstudio/shiny), [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R),       
+
+**[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)
+
 </details>
 
 sciences and their parts:                          
@@ -130,9 +133,6 @@ economics & finance data:
 
 [PPPLDeepLearning](https://github.com/PPPLDeepLearning)     
 [LxMLS - Lisbon Machine Learning Summer School](https://github.com/LxMLS)            
-
-**[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets), [shiny](https://github.com/rstudio/shiny), [rmarkdown - Public Dynamic Documents for R](https://github.com/rstudio/rmarkdown)                    
-
 
 **[DBeaver](https://github.com/dbeaver)** - Universal Database Managers and SQL Clients                  
 
