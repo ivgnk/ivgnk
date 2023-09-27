@@ -112,12 +112,18 @@ economics & finance data:
 [geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R             
 [https://github.com/sfirke/janitor](janitor) - simple tools for data cleaning in R              
 [swirl](https://github.com/swirldev/swirl) - Learn R, in R. [site](https://swirlstats.com)        
-[rstan](https://github.com/stan-dev/rstan) - RStan, the R interface to Stan             
+[rstan](https://github.com/stan-dev/rstan) - RStan, the R interface to Stan. [Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation](https://mc-stan.org/)       
+[easystats](https://github.com/easystats) - R Framework for Easy Statistical Modeling, Visualization, and Reporting                           
 [shiny](https://github.com/rstudio/shiny), [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book              
-[ggplot2](https://github.com/tidyverse/ggplot2),  [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R), [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes), [forecast](https://github.com/robjhyndman/forecast),                        
+[mlr3](https://github.com/mlr-org/mlr3) - Machine Learning in R               
+[ggplot2](https://github.com/tidyverse/ggplot2),  [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R), [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes), [forecast](https://github.com/robjhyndman/forecast), [TheAlgorithms / R](https://github.com/TheAlgorithms/R)                       
 
 **[r-spatial](https://github.com/r-spatial)**              
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)                 
+[quantmod](https://github.com/joshuaulrich/quantmod) - Quantitative Financial Modelling Framework             
+
+- - -
+Repo with more than 716 Star in 27/09/2023
 
 </details>
 
