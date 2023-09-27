@@ -57,29 +57,7 @@ common science problems and methods:
 [statistics](https://github.com/topics/statistics), [forecasting](https://github.com/topics/forecasting), [statistical-analysis](https://github.com/topics/statistical-analysis), [robust-estimation](https://github.com/topics/robust-estimation), [hypothesis-testing](https://github.com/topics/hypothesis-testing), [monte-carlo-methods](https://github.com/topics/monte-carlo-methods), [kalman-filter](https://github.com/topics/kalman-filter), [bayesian-inference](https://github.com/topics/bayesian-inference)                     
 libraries (mostly Python):                     
 [python](https://github.com/topics/python),  [numpy](https://github.com/topics/numpy), [scipy](https://github.com/topics/scipy), [tensorflow](https://github.com/topics/tensorflow), [pytorch](https://github.com/topics/pytorch), [data-visualization](https://github.com/topics/data-visualization), [data-science](https://github.com/topics/data-science), [artificial-intelligence](https://github.com/topics/artificial-intelligence), [big-data](https://github.com/topics/big-data), [machine-learning](https://github.com/topics/machine-learning), [deep-learning](https://github.com/topics/deep-learning), [neural-network](https://github.com/topics/neural-network), [natural-language-processing](https://github.com/topics/natural-language-processing), [computer-vision](https://github.com/topics/computer-vision), [image-processing](https://github.com/topics/image-processing), [supervised-learning](https://github.com/topics/supervised-learning), [unsupervised-learning](https://github.com/topics/unsupervised-learning), [streamlit](https://github.com/topics/streamlit)      
-
-<details>
-   <summary>R-lang</summary>           
-       
-[R-lang](https://github.com/topics/r)       
-[awesome-R](https://github.com/qinwf/awesome-R) - list of awesome R packages, frameworks and software            
-[tidyverse](https://github.com/tidyverse) - collection of R packages that share common principles and are designed to work together seamlessly                   
-[DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - list of R tutorials for Data Science, NLP and Machine Learning            
-[r4ds](https://github.com/hadley/r4ds) - R for data science: a book           
-[blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown         
-[DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data           
-[mlr](https://github.com/mlr-org/mlr) - Machine Learning in R             
-[rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R                        
-[geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R             
-[https://github.com/sfirke/janitor](janitor) - simple tools for data cleaning in R              
-[shiny](https://github.com/rstudio/shiny), [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book              
-[ggplot2](https://github.com/tidyverse/ggplot2),  [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R), [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)                       
-
-**[r-spatial](https://github.com/r-spatial)**              
-**[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)                 
-
-</details>
-
+              
 sciences and their parts:                          
 [earth-science](https://github.com/topics/earth-science), [geophysics](https://github.com/topics/geophysics), [geoscience](https://github.com/topics/geoscience), [geosciences](https://github.com/topics/geosciences), [geospatial](https://github.com/topics/geospatial), [geodesy](https://github.com/topics/geodesy), [gis](https://github.com/topics/gis), [geology](https://github.com/topics/geology), [reservoir-modeling](https://github.com/topics/reservoir-modeling), [maps](https://github.com/topics/maps?l=python), [spatial-data](https://github.com/topics/spatial-data)              
 
@@ -90,7 +68,8 @@ energy:
 [energy](https://github.com/topics/energy), [energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation),        
 <details>
    <summary>Other</summary>              
-other languages
+other languages         
+              
 [delphi](https://github.com/topics/delphi), [lazarus](https://github.com/topics/lazarus), [pascal](https://github.com/topics/pascal)             
 
 
@@ -117,6 +96,31 @@ economics & finance data:
 **[Github Trending Jupyter notebook monthly](https://github.com/trending/jupyter-notebook?since=monthly)**                       
 [How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)               
 
+## R-lang
+<details>
+   <summary>R-lang</summary>           
+       
+[R-lang](https://github.com/topics/r)       
+[awesome-R](https://github.com/qinwf/awesome-R) - list of awesome R packages, frameworks and software            
+[tidyverse](https://github.com/tidyverse) - collection of R packages that share common principles and are designed to work together seamlessly                   
+[DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - list of R tutorials for Data Science, NLP and Machine Learning            
+[r4ds](https://github.com/hadley/r4ds) - R for data science: a book           
+[blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown         
+[DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data           
+[mlr](https://github.com/mlr-org/mlr) - Machine Learning in R             
+[rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R                        
+[geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R             
+[https://github.com/sfirke/janitor](janitor) - simple tools for data cleaning in R              
+[swirl](https://github.com/swirldev/swirl) - Learn R, in R. [site](https://swirlstats.com)        
+[rstan](https://github.com/stan-dev/rstan) - RStan, the R interface to Stan             
+[shiny](https://github.com/rstudio/shiny), [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book              
+[ggplot2](https://github.com/tidyverse/ggplot2),  [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R), [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes), [forecast](https://github.com/robjhyndman/forecast),                        
+
+**[r-spatial](https://github.com/r-spatial)**              
+**[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)                 
+
+</details>
+
 
 ## Following:                  
 ### Links collections 
@@ -125,7 +129,7 @@ economics & finance data:
 [Data Carpentry](https://github.com/datacarpentry) - Workshops teaching scientists basic skills for retrieving, viewing, managing, and manipulating data                     
 
 
-### STEM
+### STEM (Python)
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies**         
 **[The Algorithms](https://github.com/TheAlgorithms)** - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language         
 
