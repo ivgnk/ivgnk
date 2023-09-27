@@ -60,6 +60,7 @@ libraries (mostly Python):
 
 <details>
    <summary>r-lang</summary>           
+       
 [r-lang](https://github.com/topics/r)       
 [awesome-R](https://github.com/qinwf/awesome-R) - list of awesome R packages, frameworks and software            
 [tidyverse](https://github.com/tidyverse) - collection of R packages that share common principles and are designed to work together seamlessly                   
