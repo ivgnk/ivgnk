@@ -70,8 +70,12 @@ libraries (mostly Python):
 [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data           
 [mlr](https://github.com/mlr-org/mlr) - Machine Learning in R             
 [rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R                        
-[ggplot2](https://github.com/tidyverse/ggplot2), [shiny](https://github.com/rstudio/shiny), [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R)               
+[geocompr](https://github.com/geocompx/geocompr) - Open source book: Geocomputation with R             
+[https://github.com/sfirke/janitor](janitor) - simple tools for data cleaning in R              
+[shiny](https://github.com/rstudio/shiny), [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book              
+[ggplot2](https://github.com/tidyverse/ggplot2),  [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R), [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)                       
 
+**[r-spatial](https://github.com/r-spatial)**              
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)                 
 
 </details>
