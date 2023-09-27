@@ -70,7 +70,8 @@ energy:
    <summary>Other</summary>              
 other languages         
               
-[delphi](https://github.com/topics/delphi), [lazarus](https://github.com/topics/lazarus), [pascal](https://github.com/topics/pascal)             
+[delphi](https://github.com/topics/delphi), [lazarus](https://github.com/topics/lazarus), [pascal](https://github.com/topics/pascal)     
+**[delphi python](https://github.com/search?q=delphi%20python&type=repositories)**
 
 
 economics & finance:          
