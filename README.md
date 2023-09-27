@@ -71,8 +71,8 @@ energy:
 other languages         
               
 [delphi](https://github.com/topics/delphi), [lazarus](https://github.com/topics/lazarus), [pascal](https://github.com/topics/pascal)     
-**[delphi python](https://github.com/search?q=delphi%20python&type=repositories)**
-
+**[delphi python](https://github.com/search?q=delphi%20python&type=repositories)**                     
+[skia4delphi](https://github.com/skia4delphi/skia4delphi) - Skia4Delphi is a cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library                
 
 economics & finance:          
 [econometrics](https://github.com/topics/econometrics), [economics](https://github.com/topics/economics), [finance](https://github.com/topics/finance),[financial-mathematics](https://github.com/topics/financial-mathematics), [financial-engineering](https://github.com/topics/financial-engineering), [quantitative-finance](https://github.com/topics/quantitative-finance), [fintech](https://github.com/topics/fintech), [trading](https://github.com/topics/trading), [technical-analysis](https://github.com/topics/technical-analysis), [algo-trading](https://github.com/topics/algo-trading), [algotrading](https://github.com/topics/algotrading), [quantitative-trading](https://github.com/topics/quantitative-trading), [quant](https://github.com/topics/quant), [backtesting](https://github.com/topics/backtesting), [stock-price-prediction](https://github.com/topics/stock-price-prediction)                                              
