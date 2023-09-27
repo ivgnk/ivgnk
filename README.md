@@ -67,9 +67,12 @@ libraries (mostly Python):
 [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - list of R tutorials for Data Science, NLP and Machine Learning            
 [r4ds](https://github.com/hadley/r4ds) - R for data science: a book           
 [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown         
-[ggplot2](https://github.com/tidyverse/ggplot2), [shiny](https://github.com/rstudio/shiny), [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R),       
+[DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data           
+[mlr](https://github.com/mlr-org/mlr) - Machine Learning in R             
+[rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R                        
+[ggplot2](https://github.com/tidyverse/ggplot2), [shiny](https://github.com/rstudio/shiny), [rmarkdown](https://github.com/rstudio/rmarkdown), [plotly.R](https://github.com/plotly/plotly.R)               
 
-**[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)
+**[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)                 
 
 </details>
 
