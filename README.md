@@ -112,6 +112,7 @@ economics & finance data:
 **[seaborn](https://github.com/mwaskom/seaborn)** - plotting with Python                
 **[scikit-image](https://github.com/scikit-image)** - Image Processing Toolbox for SciPy              
 **[Python for Data](https://github.com/pydata)** -    https://github.com/orgs/pydata/repositories          
+[pyscripter](https://github.com/pyscripter) - [python4delphi](https://github.com/pyscripter/python4delphi) - Free components that wrap up Python into Delphi and Lazarus (FPC)                          
 
 [PPPLDeepLearning](https://github.com/PPPLDeepLearning)     
 [LxMLS - Lisbon Machine Learning Summer School](https://github.com/LxMLS)            
