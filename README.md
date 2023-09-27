@@ -99,6 +99,9 @@ economics & finance data:
 ## R-lang
 <details>
    <summary>R-lang</summary>           
+- - -
+Repo with more than 716 Star in 27/09/2023
+- - -   
        
 [R-lang](https://github.com/topics/r)       
 [awesome-R](https://github.com/qinwf/awesome-R) - list of awesome R packages, frameworks and software            
@@ -121,9 +124,6 @@ economics & finance data:
 **[r-spatial](https://github.com/r-spatial)**              
 **[RStudio](https://github.com/rstudio)** - 1.8k followers, repo: [rstudio](https://github.com/rstudio/rstudio), [cheatsheets](https://github.com/rstudio/cheatsheets)                 
 [quantmod](https://github.com/joshuaulrich/quantmod) - Quantitative Financial Modelling Framework             
-
-- - -
-Repo with more than 716 Star in 27/09/2023
 
 </details>
 
