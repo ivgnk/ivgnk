@@ -100,7 +100,7 @@ economics & finance data:
 <details>
    <summary>R-lang</summary>           
 - - -
-Repo with more than 716 Star in 27/09/2023
+Repo with more than 716 Stars in 27/09/2023
 - - -   
        
 [R-lang](https://github.com/topics/r)       
