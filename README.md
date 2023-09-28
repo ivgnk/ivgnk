@@ -364,6 +364,8 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 
 
 </details>
+
 - - -
+
 ## My forks        
   
