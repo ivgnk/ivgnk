@@ -368,4 +368,12 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 - - -
 
 ## My forks        
-  
+### STEM
+[image-processing](https://github.com/ivgnk/image-processing) - Image Processing with Python           
+[TheAlgorithms-Python](https://github.com/ivgnk/TheAlgorithms-Python) - All Algorithms implemented in Python         
+[pytorchTutorial](https://github.com/ivgnk/pytorchTutorial) - PyTorch Tutorials from patrickloeber YouTube channel             
+[awesome-deep-learning](https://github.com/ivgnk/awesome-deep-learning) -  list of awesome Deep Learning tutorials, projects and communities
+
+
+### Geosciences   
+[awesome-open-geoscience](https://github.com/ivgnk/awesome-open-geoscience) - 
