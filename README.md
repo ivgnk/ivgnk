@@ -202,6 +202,8 @@ Repo with more than 716 Stars in 27/09/2023
 **[Madagascar](https://github.com/ahay)** - Open-Source Software Package for Multidimensional Data Analysis                                 
 **[Fatiando a Terra](https://github.com/fatiando)** - Open-source Python tools for geophysics                
 **[Patrick-Cole](https://github.com/Patrick-Cole)** - Council for Geoscience: **[pygmi](https://github.com/Patrick-Cole/pygmi)**                
+[pygimli search in github](https://github.com/search?q=PyGimli&type=repositories)                   
+[pyGIMLi](https://www.pygimli.org) - open-source library for multi-method modelling and inversion in geophysics
 - - -        
 
 [Shingle Project](https://github.com/shingleproject) - [Shingle](https://github.com/shingleproject/Shingle) - Generalised self-consistent and automated domain discretisation for multi-scale geophysical models      
