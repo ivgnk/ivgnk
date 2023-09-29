@@ -161,6 +161,8 @@ Repo with more than 716 Stars in 27/09/2023
 [Dive into Deep Learning (D2L.ai)](https://github.com/d2l-ai) - [Interactive deep learning book with code, math, and discussions](https://d2l.ai/)                   
 [Polars](https://github.com/pola-rs) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends     
 
+[Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
+
 **[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher                         
 **[Aurélien Geron](https://github.com/ageron)** - Author of the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow                                          
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
