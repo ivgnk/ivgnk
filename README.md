@@ -369,8 +369,8 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 
 ## My forks        
 ### STEM
-[fastapi_production_template ](https://github.com/ivgnk/fastapi_production_template) - FastAPI Project Example with Docker, Postgres & Redis
-[fastapi-best-practices](https://github.com/ivgnk/fastapi-best-practices) 
+[fastapi_production_template ](https://github.com/ivgnk/fastapi_production_template) - FastAPI Project Example with Docker, Postgres & Redis                  
+[fastapi-best-practices](https://github.com/ivgnk/fastapi-best-practices)                 
 [image-processing](https://github.com/ivgnk/image-processing) - Image Processing with Python           
 [TheAlgorithms-Python](https://github.com/ivgnk/TheAlgorithms-Python) - All Algorithms implemented in Python         
 [pytorchTutorial](https://github.com/ivgnk/pytorchTutorial) - PyTorch Tutorials from patrickloeber YouTube channel             
