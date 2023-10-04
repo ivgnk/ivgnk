@@ -390,6 +390,7 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 [the-incredible-pytorch](https://github.com/ivgnk/the-incredible-pytorch)            
 [Daily-Dose-of-Data-Science](https://github.com/ivgnk/Daily-Dose-of-Data-Science)          
 [finance_ml](https://github.com/ivgnk/finance_ml)        
+[ds-cheatsheets](https://github.com/ivgnk/ds-cheatsheets)             
 
 [awesome-computer-vision](https://github.com/ivgnk/awesome-computer-vision)           
 [awesome-deep-learning](https://github.com/ivgnk/awesome-deep-learning) -  list of awesome Deep Learning tutorials, projects and communities
