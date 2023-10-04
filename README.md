@@ -379,7 +379,8 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 [fastapi-best-practices](https://github.com/ivgnk/fastapi-best-practices)                 
 
 [image-processing](https://github.com/ivgnk/image-processing) - Image Processing with Python           
-[TheAlgorithms-Python](https://github.com/ivgnk/TheAlgorithms-Python) - All Algorithms implemented in Python  [design-patterns-python](https://github.com/ivgnk/design-patterns-python)                
+[TheAlgorithms-Python](https://github.com/ivgnk/TheAlgorithms-Python) - All Algorithms implemented in Python        
+[design-patterns-python](https://github.com/ivgnk/design-patterns-python)                
 
 
 [pytorchTutorial](https://github.com/ivgnk/pytorchTutorial) - PyTorch Tutorials from patrickloeber YouTube channel             
