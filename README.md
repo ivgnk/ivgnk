@@ -377,11 +377,25 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 ### STEM
 [fastapi_production_template ](https://github.com/ivgnk/fastapi_production_template) - FastAPI Project Example with Docker, Postgres & Redis                  
 [fastapi-best-practices](https://github.com/ivgnk/fastapi-best-practices)                 
+
 [image-processing](https://github.com/ivgnk/image-processing) - Image Processing with Python           
-[TheAlgorithms-Python](https://github.com/ivgnk/TheAlgorithms-Python) - All Algorithms implemented in Python         
+[TheAlgorithms-Python](https://github.com/ivgnk/TheAlgorithms-Python) - All Algorithms implemented in Python  [design-patterns-python](https://github.com/ivgnk/design-patterns-python)           
+
+
 [pytorchTutorial](https://github.com/ivgnk/pytorchTutorial) - PyTorch Tutorials from patrickloeber YouTube channel             
+[Pandas-Data-Science-Tasks](https://github.com/ivgnk/Pandas-Data-Science-Tasks)            
+[DataScienceInterview](https://github.com/ivgnk/DataScienceInterview)            
+[datasciencecoursera](https://github.com/ivgnk/datasciencecoursera)       
+[the-incredible-pytorch](https://github.com/ivgnk/the-incredible-pytorch)            
+[Daily-Dose-of-Data-Science](https://github.com/ivgnk/Daily-Dose-of-Data-Science)          
+[finance_ml](https://github.com/ivgnk/finance_ml)        
+
+[awesome-computer-vision](https://github.com/ivgnk/awesome-computer-vision)           
 [awesome-deep-learning](https://github.com/ivgnk/awesome-deep-learning) -  list of awesome Deep Learning tutorials, projects and communities
+
+
 
 
 ### Geosciences   
 [awesome-open-geoscience](https://github.com/ivgnk/awesome-open-geoscience) - 
+[LoopStructural](https://github.com/ivgnk/LoopStructural) - e 3D structural geological modelling library
