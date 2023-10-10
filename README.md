@@ -382,7 +382,6 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 [TheAlgorithms-Python](https://github.com/ivgnk/TheAlgorithms-Python) - All Algorithms implemented in Python        
 [design-patterns-python](https://github.com/ivgnk/design-patterns-python)                
 
-
 [pytorchTutorial](https://github.com/ivgnk/pytorchTutorial) - PyTorch Tutorials from patrickloeber YouTube channel             
 [Pandas-Data-Science-Tasks](https://github.com/ivgnk/Pandas-Data-Science-Tasks)            
 [DataScienceInterview](https://github.com/ivgnk/DataScienceInterview)            
@@ -393,8 +392,9 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 [ds-cheatsheets](https://github.com/ivgnk/ds-cheatsheets)             
 
 [awesome-computer-vision](https://github.com/ivgnk/awesome-computer-vision)           
-[awesome-deep-learning](https://github.com/ivgnk/awesome-deep-learning) -  list of awesome Deep Learning tutorials, projects and communities
+[awesome-deep-learning](https://github.com/ivgnk/awesome-deep-learning) -  list of awesome Deep Learning tutorials, projects and communities        
 
+[FlutterExampleApps](https://github.com/ivgnk/FlutterExampleApps)           
 
 
 
