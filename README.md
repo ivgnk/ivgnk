@@ -299,6 +299,7 @@ Repo with more than 716 Stars in 27/09/2023
 [Top 100 Stars in R](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/R.md)                
 [Top 100 Stars in Julia](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Julia.md)            
 [Top 100 Stars in MATLAB](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/MATLAB.md)            
+[Top 100 Stars in Dart](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Dart.md)            
 
 [Top 100 Stars in Ruby](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Ruby.md)            
 [Top 100 Stars in C#](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/CSharp.md)                 
@@ -341,7 +342,7 @@ https://osdn.net/projects/mingw
 
 
 - - - 
-### Работа с Gihub, оформление профиля и README-файла / Working with Github, creating a profile and a README file            
+### Работа с Github, оформление профиля и README-файла / Working with Github, creating a profile and a README file            
 GitHub: [Закрепление элементов в профиле](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)/[Pinning items to your profile
 ](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile)             
 GitHub: [Написание математических выражений](https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
