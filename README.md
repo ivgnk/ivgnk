@@ -97,7 +97,9 @@ economics & finance data:
 **[Github Trending Python daily](https://github.com/trending/python?since=daily)**                
 **[Github Trending Python monthly](https://github.com/trending/python?since=monthly)**                  
 **[Github Trending Jupyter notebook monthly](https://github.com/trending/jupyter-notebook?since=monthly)**                       
+
 [How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)               
+[How to add color to GitHub's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)       
 
 ## R-lang
 <details>
