@@ -139,6 +139,7 @@ Repo with more than 716 Stars in 27/09/2023
 **[Packt](https://github.com/PacktPublishing)** - Providing books, eBooks, video tutorials, and articles for IT developers, administrators, and users - 8.0k repo                              
 [Data Carpentry](https://github.com/datacarpentry) - Workshops teaching scientists basic skills for retrieving, viewing, managing, and manipulating data                     
 [LeetCode repository is a comprehensive collection of solutions to LeetCode questions in multiple programming languages](https://github.com/doocs/leetcode/blob/main/README_EN.md)             
+[Apress](https://github.com/Apress) - Source code for books published by Apress. For more information go to www.apress.com/source-code                
 
 
 ### STEM (Python)
@@ -152,6 +153,7 @@ Repo with more than 716 Stars in 27/09/2023
 **[seaborn](https://github.com/mwaskom/seaborn)** - plotting with Python                
 **[scikit-image](https://github.com/scikit-image)** - Image Processing Toolbox for SciPy              
 **[Python for Data](https://github.com/pydata)** -    https://github.com/orgs/pydata/repositories          
+[giotto.ai](https://github.com/giotto-ai) - Adding a third dimension to AI          
 [pyscripter](https://github.com/pyscripter) - [python4delphi](https://github.com/pyscripter/python4delphi) - Free components that wrap up Python into Delphi and Lazarus (FPC)                          
 
 [PPPLDeepLearning](https://github.com/PPPLDeepLearning)     
@@ -181,9 +183,13 @@ Repo with more than 716 Stars in 27/09/2023
 [Chris / ChristosChristofidis](https://github.com/ChristosChristofidis) -  Deep/Machine Learning. 140 Repo, 893 Stars                              
 [Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars                        
 
+[Armin Ronacher](https://github.com/mitsuhiko) - Creator of the Flask framework            
+
 [Konstantin Gavrilov](https://github.com/konstgav) - Perm, Physicist                          
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
 
+[HemulGM](https://github.com/HemulGM) - Professional Delphi developer:  DelphiOpenAI, ChatGPT           
+[Anatolii Kosorukov](https://github.com/rustkas)     
 
 ### Geosciences   
 **[Pangeo](https://github.com/pangeo-data)** - A community effort for big data geoscience        
