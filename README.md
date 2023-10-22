@@ -189,7 +189,7 @@ Repo with more than 716 Stars in 27/09/2023
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
 
 [HemulGM](https://github.com/HemulGM) - Professional Delphi developer:  DelphiOpenAI, ChatGPT           
-[Anatolii Kosorukov](https://github.com/rustkas)     
+[Anatolii Kosorukov](https://github.com/rustkas) - Svelte docs (Svelte.js-The-Complete-Guide-incl.-Sapper.js, Svelte-Quickstart-Through-Instroduction-Tutorial-projects, Sveltejs-3-and-Sapper-Projects, Learn-Svelte-by-applying-test-driven-development, ...)     
 
 ### Geosciences   
 **[Pangeo](https://github.com/pangeo-data)** - A community effort for big data geoscience        
