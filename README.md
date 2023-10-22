@@ -174,7 +174,11 @@ Repo with more than 716 Stars in 27/09/2023
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
 [**MorvanZhou**](https://github.com/MorvanZhou) - Deep Learning Research & Development at Tencent (одна из крупнейших инвестиционных и венчурных компаний Китая)                                  
 [**Chanin Nantasenamat: dataprofessor**](https://github.com/dataprofessor) - popular blogger on data scince (see Pinned Repo): [youtube: DataProfessor](https://www.youtube.com/@DataProfessor)                                 
+[**ZProger**](https://github.com/Zproger) - Python tutor, https://www.youtube.com/channel/UCA9t0ucLQLDCELE0wbDSAyw , [code_lessons](https://github.com/Zproger/code_lessons)          
+
 [François Chollet](https://github.com/fchollet) - deep learning,  15.4k followers, 124 Stars
+[Alexander Ershov](https://github.com/ershovio) - Machine learning, Data science            
+
 
 [PyLops](https://github.com/PyLops) - Matrix-Free linear algebra and optimization in Python               
 [Devito](https://github.com/devitocodes) - Symbolic Finite Difference Computation                             
@@ -188,9 +192,10 @@ Repo with more than 716 Stars in 27/09/2023
 [Konstantin Gavrilov](https://github.com/konstgav) - Perm, Physicist                          
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
 
-[HemulGM](https://github.com/HemulGM) - Professional Delphi developer:  DelphiOpenAI, ChatGPT           
+[HemulGM](https://github.com/HemulGM) - Professional Delphi developer:  DelphiOpenAI, ChatGPT
+- - -
 [Anatolii Kosorukov](https://github.com/rustkas) - Svelte docs (Svelte.js-The-Complete-Guide-incl.-Sapper.js, Svelte-Quickstart-Through-Instroduction-Tutorial-projects, Sveltejs-3-and-Sapper-Projects, Learn-Svelte-by-applying-test-driven-development, ...)     
-
+[Mark Volkmann](https://github.com/mvolkmann) -  author of the Manning book "Svelte and Sapper in Action"          
 ### Geosciences   
 **[Pangeo](https://github.com/pangeo-data)** - A community effort for big data geoscience        
 **[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)                     
