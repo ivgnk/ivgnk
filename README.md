@@ -141,6 +141,8 @@ Repo with more than 716 Stars in 27/09/2023
 [LeetCode repository is a comprehensive collection of solutions to LeetCode questions in multiple programming languages](https://github.com/doocs/leetcode/blob/main/README_EN.md)             
 [Apress](https://github.com/Apress) - Source code for books published by Apress. For more information go to www.apress.com/source-code                
 
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)**              
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Machine Learning with Python(https://github.com/ml-tooling/best-of-ml-python)]** -->> [Machine Learning Frameworks](https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks)             
 
 ### STEM: Python and some others /JS, Delphi/
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies**         
@@ -169,8 +171,7 @@ Repo with more than 716 Stars in 27/09/2023
 
 [Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
 
-**[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->>              
-![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)**           
+**[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->> **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)** and others          
 
 
 **[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher                         
