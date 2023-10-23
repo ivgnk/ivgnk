@@ -169,7 +169,9 @@ Repo with more than 716 Stars in 27/09/2023
 
 [Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
 
-**[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python**
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) **[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->> 
+**[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)**           
+
 **[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher                         
 **[Aurélien Geron](https://github.com/ageron)** - Author of the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow                                          
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
