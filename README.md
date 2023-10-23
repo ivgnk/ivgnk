@@ -192,11 +192,12 @@ Repo with more than 716 Stars in 27/09/2023
 
 [Konstantin Gavrilov](https://github.com/konstgav) - Perm, Physicist                          
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
-
+- - -
 [HemulGM](https://github.com/HemulGM) - Professional Delphi developer:  DelphiOpenAI, ChatGPT
 - - -
 [Anatolii Kosorukov](https://github.com/rustkas) - Svelte docs (Svelte.js-The-Complete-Guide-incl.-Sapper.js, Svelte-Quickstart-Through-Instroduction-Tutorial-projects, Sveltejs-3-and-Sapper-Projects, Learn-Svelte-by-applying-test-driven-development, ...)     
 [Mark Volkmann](https://github.com/mvolkmann) -  author of the Manning book "Svelte and Sapper in Action"          
+          
 ### Geosciences   
 **[Pangeo](https://github.com/pangeo-data)** - A community effort for big data geoscience        
 **[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)                     
