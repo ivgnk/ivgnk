@@ -142,7 +142,7 @@ Repo with more than 716 Stars in 27/09/2023
 [Apress](https://github.com/Apress) - Source code for books published by Apress. For more information go to www.apress.com/source-code                
 
 
-### STEM (Python)
+### STEM: Python and some others /JS, Delphi/
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies**         
 **[The Algorithms](https://github.com/TheAlgorithms)** - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language         
 
@@ -169,6 +169,7 @@ Repo with more than 716 Stars in 27/09/2023
 
 [Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
 
+**[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python**
 **[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher                         
 **[Aurélien Geron](https://github.com/ageron)** - Author of the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow                                          
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
