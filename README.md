@@ -142,7 +142,8 @@ Repo with more than 716 Stars in 27/09/2023
 [Apress](https://github.com/Apress) - Source code for books published by Apress. For more information go to www.apress.com/source-code                
 
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)**              
-![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Machine Learning with Python(https://github.com/ml-tooling/best-of-ml-python)]** -->> [Machine Learning Frameworks](https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks)             
+![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)** -->> [Machine Learning Frameworks](https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks), Data Visualization, Text Data & NLP, Image Data, Graph Data, Audio Data, Geospatial Data, Financial Data, Time Series Data, Medical Data, Tabular Data, Optical Character Recognition, Data Containers & Structures, Data Loading & Extraction, Web Scraping & Crawling, Data Pipelines & Streaming, Distributed Machine Learning, Hyperparameter Optimization & AutoML, Reinforcement Learning, projects, [Recommender Systems](https://github.com/ml-tooling/best-of-ml-python#recommender-systems), Privacy Machine Learning, Workflow & Experiment Tracking, Model Serialization & Deployment, Model Interpretability, 
+Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, GPU & Accelerator Utilities, Tensorflow Utilities, Jax Utilities, Sklearn Utilities, Pytorch Utilities               
 
 ### STEM: Python and some others /JS, Delphi/
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies**         
