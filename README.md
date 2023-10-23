@@ -176,7 +176,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 [Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
 
-**[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->> **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)** and others          
+**[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->> **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)** and others, Kubernetes,  Docker          
 
 
 **[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher                         
