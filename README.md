@@ -277,7 +277,9 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 ## Other interesting repositories:                  
 ### STEM
-### Big IT Companies (different ML tools), see also language=Jupyter Notebook
+[permCoding](https://github.com/permCoding) - обучение программированию                     
+          
+### Big IT Companies (different ML tools), see also language=Jupyter Notebook                     
 
 **[microsoft python repositories](https://github.com/orgs/microsoft/repositories?q=&type=all&language=python&sort=stargazers)** - 832 repo                    
 [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks                    
