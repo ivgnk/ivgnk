@@ -168,6 +168,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 **[DBeaver](https://github.com/dbeaver)** - Universal Database Managers and SQL Clients                  
 
+**[Tinkoff Technologies](https://github.com/Tinkoff)**
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
 
 [Probabilistic machine learning](https://github.com/probml) - Material to accompany book series "Probabilistic Machine Learning" (Software, Data, Exercises, Figures, etc)
