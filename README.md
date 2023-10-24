@@ -199,6 +199,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Jesper Dramsch](https://github.com/JesperDramsch) - Scientist for Machine Learning. 100 Repo, 326 Stars                        
 
 [Armin Ronacher](https://github.com/mitsuhiko) - Creator of the Flask framework            
+[Numenta](https://github.com/numenta) - Biologically inspired machine intelligence
 
 [Konstantin Gavrilov](https://github.com/konstgav) - Perm, Physicist                          
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
