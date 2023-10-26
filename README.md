@@ -81,6 +81,8 @@ economics & finance:
 
 economics & finance data:          
 [economic-data](https://github.com/topics/economic-data), [financial-data](https://github.com/topics/financial-data), [yahoo-finance](https://github.com/topics/yahoo-finance), [stock-data](https://github.com/topics/stock-data), [quant-dataset](https://github.com/topics/quant-dataset), [google-finance](https://github.com/topics/google-finance), [market-data](https://github.com/topics/market-data), [sec](https://github.com/topics/sec), [edgar](https://github.com/topics/edgar)                           
+               
+[game-of-life](https://github.com/topics/game-of-life)                   
 </details>
 &nbsp;&nbsp;&nbsp;
 
