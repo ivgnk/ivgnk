@@ -193,7 +193,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 **[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->> **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)** and others, Kubernetes,  Docker          
 - - -    
-[https://github.com/JuliaFEM](https://github.com/JuliaFEM) - The JuliaFEM project develops open-source software for reliable, scalable, distributed Finite Element Method                  
+[JuliaFEM](https://github.com/JuliaFEM) - The JuliaFEM project develops open-source software for reliable, scalable, distributed Finite Element Method                  
 [JuliaPhysics](https://github.com/JuliaPhysics) - Physics in Julia                 
 
 
