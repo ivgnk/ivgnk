@@ -152,7 +152,14 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 
 ### STEM: Python and some others /JS, Delphi/
-**[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies**         
+#### Org/Group        
+**[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies** - 5.1k followers        
+**[Midjourney](https://github.com/midjourney)** - 1.3k followers                            
+[OpenNMT](https://github.com/OpenNMT) - Open source ecosystem for neural machine translation and neural sequence learning -  197 followers                 
+
+**[Illustrated Machine Learning](https://github.com/illustrated-machine-learning)** - 142 followers
+               
+
 **[The Algorithms](https://github.com/TheAlgorithms)** - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language         
 
 **[Python](https://github.com/python)** - Repositories related to the Python Programming language             
@@ -165,10 +172,15 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [giotto.ai](https://github.com/giotto-ai) - Adding a third dimension to AI          
 [pyscripter](https://github.com/pyscripter) - [python4delphi](https://github.com/pyscripter/python4delphi) - Free components that wrap up Python into Delphi and Lazarus (FPC)                          
 
+
 [PPPLDeepLearning](https://github.com/PPPLDeepLearning)     
 [LxMLS - Lisbon Machine Learning Summer School](https://github.com/LxMLS)            
 
-**[DBeaver](https://github.com/dbeaver)** - Universal Database Managers and SQL Clients                  
+[ROOT](https://github.com/root-project) - A modular scientific software framework                   
+[https://github.com/netology-ds-team](https://github.com/netology-ds-team)                    
+[Natural Systems Simulation Lab](https://github.com/ITMO-NSS-team) -  in ITMO University    
+[Engineering physics center of Lomonosov Moscow State University](https://github.com/EPC-MSU)                   
+
 
 **[Tinkoff Technologies](https://github.com/Tinkoff)**
 [Berkeley Automation Lab](https://github.com/BerkeleyAutomation) - Center for research in robotics and automation sciences             
@@ -177,11 +189,9 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Dive into Deep Learning (D2L.ai)](https://github.com/d2l-ai) - [Interactive deep learning book with code, math, and discussions](https://d2l.ai/)                   
 [Polars](https://github.com/pola-rs) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends     
 
-[Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
-
 **[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->> **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)** and others, Kubernetes,  Docker          
 
-
+#### Users                      
 **[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher                         
 **[Aurélien Geron](https://github.com/ageron)** - Author of the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow                                          
 [**Jake Vanderplas: jakevdp**](https://github.com/jakevdp) - Python ML & Data Science (see Pinned Repo: [**PythonDataScienceHandbook**](https://github.com/jakevdp/PythonDataScienceHandbook), [Materials for my scikit-learn tutorial](https://github.com/jakevdp/sklearn_tutorial))                      
@@ -253,13 +263,22 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Craig Phillips](https://github.com/Philliec459) - PetroPhysics - [Semantic-Segmentation-of-Petrographic-Thin-Sections-using-Keras](https://github.com/Philliec459/Semantic-Segmentation-of-Petrographic-Thin-Sections-using-Keras)
 
 
+### Web / Database         
+**[DBeaver](https://github.com/dbeaver)** - Universal Database Managers and SQL Clients                  
+[Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
+
+
 ### Quants          
+#### Org/Group        
+[OpenBB](https://github.com/OpenBB-finance) - Investment Research for Everyone, Anywhere                   
+[Unofficial open source power bi community](https://github.com/power-bi)               
+
+#### Users        
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
 **[Darío López Padial](https://github.com/bukosabino)** - Technical Analysis, Financial Forecasting, 509 followers                               
 **[Ran Aroussi](https://github.com/ranaroussi)** - software developer, data hacker, financial tinkerer, algorithmic trader, quant researcher, technology geek, creator of several popular Python libraries, and founder of Tradologics., 2k followers, [yfinance](https://github.com/ranaroussi/yfinance)  ·             
 **[TA-Lib Official Organization](https://github.com/TA-Lib)**                     
 **[Luigi Ballabio](https://github.com/lballabio)** - One of the administrators and lead developers of the QuantLib project                        
-
 [Azzrael AzzraelCode](https://github.com/AzzraelCode) - [Moex with Python](https://www.youtube.com/playlist?list=PLWVnIRD69wY62qRnOw8EjaKyC8buYe1GH)
 
 
