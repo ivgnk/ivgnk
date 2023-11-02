@@ -151,11 +151,13 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Python Developer Tools](https://github.com/ml-tooling/best-of-python-dev)** -->> Linters & Style Checkers, Type checkers, Code Formatters, Code Refactoring, Code Security, Virtual Environmentsm, Dependency & Package Managers, Code Metrics & Complexity, Logging, Shell, Documentation, Debugging Tools, Testing Tools, Code Packaging, Build Tools, System Monitoring & Profiling, AST Tools                      
 
 
-### STEM: Python and some others /R, Delphi/
+### STEM: Python and some others /R, Delphi, Julia/
 #### Org/Group        
+[The Apache Software Foundation](https://github.com/apache) - 9.8k followers   (************************)
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies** - 5.1k followers        
 **[Midjourney](https://github.com/midjourney)** - 1.3k followers                            
 [OpenNMT](https://github.com/OpenNMT) - Open source ecosystem for neural machine translation and neural sequence learning -  197 followers                 
+[FluxML](https://github.com/FluxML) - Machine Learning Stack
 
 **[Illustrated Machine Learning](https://github.com/illustrated-machine-learning)** - 142 followers
                
@@ -190,6 +192,11 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Polars](https://github.com/pola-rs) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends     
 
 **[Machine Learning Tooling](https://github.com/ml-tooling)** - Machine Learning and **lists and ratings for Python** ->> **[Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)** and others, Kubernetes,  Docker          
+- - -    
+[https://github.com/JuliaFEM](https://github.com/JuliaFEM) - The JuliaFEM project develops open-source software for reliable, scalable, distributed Finite Element Method                  
+[JuliaPhysics](https://github.com/JuliaPhysics) - Physics in Julia                 
+
+
 
 #### Users                      
 **[Sebastian Raschka](https://github.com/rasbt)** - Machine Learning researcher                         
@@ -220,7 +227,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
         
           
 ### Geosciences   
-**[Pangeo](https://github.com/pangeo-data)** - A community effort for big data geoscience        
+**[Pangeo](https://github.com/pangeo-data)** - A community  effort for big data geoscience        
 **[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)                     
 **[Software Underground](https://github.com/softwareunderground)** - community of digital subsurface professionals. We are academic and applied geologists, geophysicists, engineers, and others.         
 **[Open Source Geospatial Foundation](https://github.com/OSGeo)** - organization to support the collaborative development of open geospatial technologies and data            
