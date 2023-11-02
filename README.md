@@ -151,7 +151,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Python Developer Tools](https://github.com/ml-tooling/best-of-python-dev)** -->> Linters & Style Checkers, Type checkers, Code Formatters, Code Refactoring, Code Security, Virtual Environmentsm, Dependency & Package Managers, Code Metrics & Complexity, Logging, Shell, Documentation, Debugging Tools, Testing Tools, Code Packaging, Build Tools, System Monitoring & Profiling, AST Tools                      
 
 
-### STEM: Python and some others /JS, Delphi/
+### STEM: Python and some others /R, Delphi/
 #### Org/Group        
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies** - 5.1k followers        
 **[Midjourney](https://github.com/midjourney)** - 1.3k followers                            
@@ -216,9 +216,6 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Konstantin Gavrilov](https://github.com/konstgav) - Perm, Physicist                          
 [Luchanos](https://github.com/luchanos) - Python, teaching, [video](https://www.youtube.com/@luchanos), *[Манифест](https://github.com/luchanos/treasury)*
 - - -
-[Anatolii Kosorukov](https://github.com/rustkas) - Svelte docs (Svelte.js-The-Complete-Guide-incl.-Sapper.js, Svelte-Quickstart-Through-Instroduction-Tutorial-projects, Sveltejs-3-and-Sapper-Projects, Learn-Svelte-by-applying-test-driven-development, ...)     
-[Mark Volkmann](https://github.com/mvolkmann) -  author of the Manning book "Svelte and Sapper in Action"          
-- - -
 [HemulGM](https://github.com/HemulGM) - Professional Delphi developer:  DelphiOpenAI, ChatGPT         
         
           
@@ -265,6 +262,10 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 ### Web / Database         
 **[DBeaver](https://github.com/dbeaver)** - Universal Database Managers and SQL Clients                  
+- - -            
+[Anatolii Kosorukov](https://github.com/rustkas) - Svelte docs (Svelte.js-The-Complete-Guide-incl.-Sapper.js, Svelte-Quickstart-Through-Instroduction-Tutorial-projects, Sveltejs-3-and-Sapper-Projects, Learn-Svelte-by-applying-test-driven-development, ...)     
+[Mark Volkmann](https://github.com/mvolkmann) -  author of the Manning book "Svelte and Sapper in Action"          
+
 [Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
 
 
