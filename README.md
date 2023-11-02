@@ -153,7 +153,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 ### STEM: Python and some others /R, Delphi, Julia/
 #### Org/Group        
-[The Apache Software Foundation](https://github.com/apache) - 9.8k followers   (************************)
+[The Apache Software Foundation](https://github.com/apache) - 9.8k followers   (************************)                             
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies** - 5.1k followers        
 **[Midjourney](https://github.com/midjourney)** - 1.3k followers                            
 [OpenNMT](https://github.com/OpenNMT) - Open source ecosystem for neural machine translation and neural sequence learning -  197 followers                 
