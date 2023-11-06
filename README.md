@@ -435,4 +435,4 @@ https://tex.stackexchange.com/questions/3703/make-equations-large
 - - -
 
 ## My forks        
-[Repo](https://github.com/ivgnk?tab=repositories&q=&type=fork&language=&sort=stargazers)
+**[Repo](https://github.com/ivgnk?tab=repositories&q=&type=fork&language=&sort=stargazers)**
