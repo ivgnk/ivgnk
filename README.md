@@ -161,7 +161,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png)  **[Best-of Python Developer Tools](https://github.com/ml-tooling/best-of-python-dev)** -->> Linters & Style Checkers, Type checkers, Code Formatters, Code Refactoring, Code Security, Virtual Environmentsm, Dependency & Package Managers, Code Metrics & Complexity, Logging, Shell, Documentation, Debugging Tools, Testing Tools, Code Packaging, Build Tools, System Monitoring & Profiling, AST Tools                      
 
 
-### STEM: Python and some others /R, Delphi, Julia/
+### STEM: Python and some others /R, Delphi, Julia/ :microscope:
 #### Org/Group  :office:      
 [The Apache Software Foundation](https://github.com/apache) - 9.8k followers   (************************)                             
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies** - 5.1k followers        
@@ -315,7 +315,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [bakunobu](https://github.com/bakunobu) - some from Python              
 
 ## Other interesting repositories:                  
-### STEM
+### STEM :microscope:
 [permCoding](https://github.com/permCoding) - обучение программированию                     
           
 ### Big IT Companies (different ML tools), see also language=Jupyter Notebook                     
