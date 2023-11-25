@@ -106,6 +106,8 @@ economics & finance data:
 **[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)**              
 **[EMOJI CHEAT SHEET](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)**            
 
+:+1: **[GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/)**               
+
 ## R-lang
 <details>
    <summary>R-lang</summary>           
