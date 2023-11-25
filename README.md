@@ -286,7 +286,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Omelchenko Michael, DJWOMS](https://github.com/DJWOMS) - web projects, FastAPI               
 
 
-### Quants          
+### Quants :money_with_wings:         
 #### Org/Group :office:       
 [OpenBB](https://github.com/OpenBB-finance) - Investment Research for Everyone, Anywhere                   
 [Unofficial open source power bi community](https://github.com/power-bi)               
@@ -348,7 +348,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 <details>
   <summary>Other</summary>
  
-### Quants          
+### Quants :money_with_wings:         
 [**2022 The Top 21 Python Trading Tools (September 2023)**](https://analyzingalpha.com/python-trading-tools)
 
 [Tradologics (Cloud Python Trading Tools)](https://tradologics.gitbook.io/docs-concepts)
