@@ -302,7 +302,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)            
 [Tomoaki Fujii](https://github.com/jjakimoto) - [finance_ml](https://github.com/jjakimoto/finance_ml) - Advances in Financial Machine Learning                     
 
-### BioInformatics           
+### BioInformatics :dog:         
 **[NiPy - analysis of neuroimaging data](https://github.com/nipy)**      
 [**Michael Waskom**](https://github.com/mwaskom) - seaborn, [Psych 216A: Statistics and data analysis in Python](https://github.com/mwaskom/Psych216)                 
 
