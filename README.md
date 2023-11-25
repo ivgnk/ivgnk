@@ -162,7 +162,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 
 ### STEM: Python and some others /R, Delphi, Julia/
-#### Org/Group        
+#### Org/Group  :office:      
 [The Apache Software Foundation](https://github.com/apache) - 9.8k followers   (************************)                             
 **[DAIR.AI](https://github.com/dair-ai) - Democratizing Artificial Intelligence Research, Education, and Technologies** - 5.1k followers        
 **[Midjourney](https://github.com/midjourney)** - 1.3k followers                            
@@ -287,7 +287,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 
 
 ### Quants          
-#### Org/Group        
+#### Org/Group :office:       
 [OpenBB](https://github.com/OpenBB-finance) - Investment Research for Everyone, Anywhere                   
 [Unofficial open source power bi community](https://github.com/power-bi)               
 
