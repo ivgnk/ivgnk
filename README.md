@@ -235,7 +235,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [HemulGM](https://github.com/HemulGM) - Professional Delphi developer:  DelphiOpenAI, ChatGPT         
         
           
-:earth_africa: ### Geosciences   
+### Geosciences :earth_africa:
 **[Pangeo](https://github.com/pangeo-data)** - A community  effort for big data geoscience        
 **[GeoSci](https://github.com/geoscixyz)** - Resources for applied geophysics, [site](https://geosci.xyz/)                     
 **[Software Underground](https://github.com/softwareunderground)** - community of digital subsurface professionals. We are academic and applied geologists, geophysicists, engineers, and others.         
