@@ -107,9 +107,10 @@ economics & finance data:
 **[EMOJI CHEAT SHEET](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)**            
 
 :+1: **[GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/)**                
-**[api.github.com/emojis](https://awes0mem4n.github.io/emojis-github.html)**             ![image](https://github.com/ivgnk/ivgnk/assets/20105840/30622d90-1754-4564-8b97-837cd6f02697)
+**[api.github.com/emojis](https://awes0mem4n.github.io/emojis-github.html)**            
 
 **https://api.github.com/emojis**           
+http://www.unicode.org/charts/PDF/Unicode-12.0/U120-1F780.pdf              
 
 ## R-lang
 <details>
