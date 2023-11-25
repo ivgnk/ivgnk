@@ -290,7 +290,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [OpenBB](https://github.com/OpenBB-finance) - Investment Research for Everyone, Anywhere                   
 [Unofficial open source power bi community](https://github.com/power-bi)               
 
-#### Users        
+#### Users :man:       
 **[cia76](https://github.com/cia76)** - Игорь Чечет              
 **[Darío López Padial](https://github.com/bukosabino)** - Technical Analysis, Financial Forecasting, 509 followers                               
 **[Ran Aroussi](https://github.com/ranaroussi)** - software developer, data hacker, financial tinkerer, algorithmic trader, quant researcher, technology geek, creator of several popular Python libraries, and founder of Tradologics., 2k followers, [yfinance](https://github.com/ranaroussi/yfinance)  ·             
@@ -302,7 +302,7 @@ Vector Similarity Search, Probabilistics & Statistics, Adversarial Robustness, G
 [Beliavsky](https://github.com/Beliavsky) - repo: [R Finance packages not listed in the Empirical Finance Task View](https://github.com/Beliavsky/R-Finance-Task-View-Supplement), [financial-ts-prediction-with-deeplearning](https://github.com/Beliavsky/financial-ts-prediction-with-deeplearning)            
 [Tomoaki Fujii](https://github.com/jjakimoto) - [finance_ml](https://github.com/jjakimoto/finance_ml) - Advances in Financial Machine Learning                     
 
-### BioInformatics :dog:         
+### BioInformatics :cherry_blossom:                   
 **[NiPy - analysis of neuroimaging data](https://github.com/nipy)**      
 [**Michael Waskom**](https://github.com/mwaskom) - seaborn, [Psych 216A: Statistics and data analysis in Python](https://github.com/mwaskom/Psych216)                 
 
