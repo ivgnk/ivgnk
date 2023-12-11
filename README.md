@@ -65,6 +65,10 @@ sciences and their parts:
 in geosciences:          
 [magnetic-fields](https://github.com/topics/magnetic-fields), [gravity-field](https://github.com/topics/gravity-field), [gravimetry](https://github.com/topics/gravimetry), [fatiando-a-terra](https://github.com/topics/fatiando-a-terra), [obspy](https://github.com/topics/obspy),           
 
+programming
+[python](https://github.com/topics/python), [dart](https://github.com/topics/dart), [no-code](https://github.com/topics/no-code), [low-code](https://github.com/topics/low-code)                        
+
+
 energy:          
 [energy](https://github.com/topics/energy), [energy-data](https://github.com/topics/energy-data), [transportation](https://github.com/topics/transportation),        
 <details>
