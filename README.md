@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 -->
 [![codewars](https://www.codewars.com/users/ivgnk/badges/small)](https://www.codewars.com/users/ivgnk) 
 
-**Leetcode**
-![Leetcode Stats](https://leetcard.jacoblin.cool/iv_g)
+**Leetcode**              
+![Leetcode Stats](https://leetcard.jacoblin.cool/iv_g)                       
 https://github.com/JacobLinCool/LeetCode-Stats-Card
 
 <!--
