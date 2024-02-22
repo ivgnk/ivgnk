@@ -41,8 +41,13 @@ Here are some ideas to get you started:
 -->
 [![codewars](https://www.codewars.com/users/ivgnk/badges/small)](https://www.codewars.com/users/ivgnk) 
 
+
+<details>
+   <summary>Other</summary>              
 **Leetcode**              
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iv_g)                       
+other languages         
+
 <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 
 <!--
