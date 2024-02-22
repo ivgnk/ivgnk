@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 
 <details>
-   <summary>Other tests</summary>              
+   <summary>Other tests</summary>           
+ 
 **Leetcode**              
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iv_g)                       
  <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
