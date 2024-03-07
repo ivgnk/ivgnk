@@ -46,7 +46,8 @@ Here are some ideas to get you started:
    <summary>Other tests</summary>           
  
 **Leetcode**              
-![Leetcode Stats](https://leetcard.jacoblin.cool/iv_g)                       
+https://leetcode.com/iv_g/
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/iv_g) -->                      
  <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 </details>
 
