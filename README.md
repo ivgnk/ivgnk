@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivgnk)](https://github.com/ivgnk/github-readme-stats)
 -->
-[![codewars](https://www.codewars.com/users/ivgnk/badges/small)](https://www.codewars.com/users/ivgnk) 
+[![codewars](https://www.codewars.com/users/ivgnk/badges/small)](https://www.codewars.com/users/ivgnk)                                
 (Higher level: less Kftl(kyu) more Honor(points))
 
 <details>
