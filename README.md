@@ -116,7 +116,7 @@ economics & finance data:
 [How to find out "The most popular repositories" on Github?](https://stackoverflow.com/questions/19855552/how-to-find-out-the-most-popular-repositories-on-github)               
 [How to add color to GitHub's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)       
 - - -
-### Emoji :+1: 
+### Emoji :+1:    ✏️
 **[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)**              
 **[EMOJI CHEAT SHEET](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)**            
 
